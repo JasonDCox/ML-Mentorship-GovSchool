@@ -6,13 +6,14 @@ import tracemalloc
 import seaborn as sn
 import pandas as pd
 import matplotlib.pyplot as plt
+import copy
 
 start = time.time()
 tracemalloc.start()
 
 #get file name and check if it's there
 #file_name = input("Please type the name of your file, including extension: \n")
-file_name = "large.arff"
+file_name = "small.arff"
 
 try:
     input_file = open(file_name, "r")
@@ -48,7 +49,7 @@ for line in Lines:
 #print("Number of training data:", len(data))
 
 #percentage_test = input("What percentage of the data would you like to be test data?")
-percentage_test = 30
+percentage_test = 100
 percentage_test = float(percentage_test)/100
 
 #convert data to float numbers
@@ -63,12 +64,12 @@ data = final_data.copy()
 #create test and train data
 train = data.copy()
 test = []
-
-for x in range(int(len(train) * percentage_test)):
-    num = random.randint(0, len(train) - 1)
-    point = train[num]
-    train.pop(num)
-    test.append(point)
+if percentage_test != 1:
+    for x in range(int(len(train) * percentage_test)):
+        num = random.randint(0, len(train) - 1)
+        point = train[num]
+        train.pop(num)
+        test.append(point)
 
 #print("length train:", len(train), "length test:", len(test), "percentage:", int((len(test)/(len(test) + len(train)))*100))
 
@@ -90,18 +91,21 @@ for c in classes:
     dataset.append(current_class)
 
         
-def kNN (dataset, predict, k=3, m=1, p_value=1):
+def kNN (dataset, predict, group_number, k=3, m=1, p_value=1):
+    global percentage_test
     #euclideam, manhattan, or minkowski
     #check if k in more than amount of classes
     if len(dataset) > k:
         #print("K is less than total classifiers!")
         print("", end="")
-
+    temp_dataset = copy.deepcopy(dataset)
+    if percentage_test == 1:
+        temp_dataset[group_number].remove(predict)
     mode = m
     distances = []
 
     class_num = 0
-    for Class in dataset:
+    for Class in temp_dataset:
         for point in Class:
             if mode == 1:
                 total_distance = 0
@@ -139,19 +143,20 @@ def kNN (dataset, predict, k=3, m=1, p_value=1):
         nums.append(count)
         groupNum += 1
     
-    vote_result = max(votes)
+    vote_result = max(votes)    
     return vote_result
 
 #Seperate test values for different categories
 test_dataset = []
 
-for c in classes:
-    current_class = []
-    for x in test:
-        if x[-1] == c:
-            current = x[:-1]
-            current_class.append(current)
-    test_dataset.append(current_class)
+if percentage_test != 1:
+    for c in classes:
+        current_class = []
+        for x in test:
+            if x[-1] == c:
+                current = x[:-1]
+                current_class.append(current)
+        test_dataset.append(current_class)
 
 #Create confusion matrix data
 confusion_matrix = []
@@ -160,20 +165,37 @@ squared_differences = []
 corrects = 0
 wrongs = 0
 
-g = 0
-for x in test_dataset:
-    class_results = [0] * len(classes)
-    for y in x:
-        result = kNN(dataset, y, 3)
-        class_results[result] += 1
-        if result == g:
-            corrects += 1
-        else:
-            wrongs += 1
-        differences.append(abs(result - y[-1]))
-        squared_differences.append((abs(result - y[-1]))**2)
-    confusion_matrix.append(class_results)
-    g += 1
+if percentage_test != 1:
+    g = 0
+    for x in test_dataset:
+        class_results = [0] * len(classes)
+        for y in x:
+            result = kNN(dataset, y, g, 3)
+            class_results[result] += 1
+            if result == g:
+                corrects += 1
+            else:
+                wrongs += 1
+            differences.append(abs(result - y[-1]))
+            squared_differences.append((abs(result - y[-1]))**2)
+        confusion_matrix.append(class_results)
+        g += 1
+else:
+    g = 0
+    for c in dataset:
+        class_results = [0] * len(classes)
+        for y in c:
+            result = kNN(dataset, y, g, 3)
+            class_results[result] += 1
+            if result == g:
+                corrects += 1
+            else:
+                wrongs += 1
+            differences.append(abs(result - y[-1]))
+            squared_differences.append((abs(result - y[-1]))**2)
+        confusion_matrix.append(class_results)
+        #print("num:", len(dataset[g]), "results:", sum(class_results))
+        g += 1
 
 end = time.time()
 total_time = end-start
