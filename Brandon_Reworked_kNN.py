@@ -260,9 +260,9 @@ t = 0
 for x in confusion_matrix:
     file.write("Metrics for " + str(total_classes[group_num]) + ":\n")
     true_posistives = x[group_num]
-    false_posistives = sum(horizontal_matrix[t]) - true_posistives
+    false_posistives = sum(x) - true_posistives
     true_negatives = len(predictions) - (false_posistives + sum(x))
-    false_negatives = sum(x) - true_posistives
+    false_negatives = sum(horizontal_matrix[t]) - true_posistives
 
     try:
         precision = format((true_posistives) / (true_posistives + false_posistives), sig)
