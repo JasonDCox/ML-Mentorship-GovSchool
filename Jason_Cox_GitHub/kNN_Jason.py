@@ -8,6 +8,7 @@ import psutil
 import matplotlib.pyplot as plt
 
 
+
 start = time.time()
 
 file_name = (sys.argv[1])
@@ -30,8 +31,10 @@ def profile(kNN):
         mem_after = process_memory()
         print("{}:consumed memory: {:,}".format(
             kNN.__name__,
-            mem_before, mem_after, mem_after - mem_before))
-
+            mem_after - mem_before))
+        global mem_used
+        mem_used = mem_after - mem_before
+        
   
         return result
     return wrapper
@@ -112,20 +115,22 @@ def accuracy(predictions, Target):
     accuracy = correct / len(Target)
     return accuracy
 
-file = open("kNN_results.txt", "w")
+file = open("ouput.md", "w")
 
 
 
 predictions, Target = kNN(file_name, k, mode)
 print("Accuracy was:", accuracy(predictions, Target))
 
-file.write("Accuracy was: " + str(accuracy(predictions, Target)) + "\n")
-
 end = time.time()
+
+file.write("## General Metrics: \n")
+file.write("- Accuracy was: " + str(accuracy(predictions, Target)) + "\n" )
 total_time = end-start
 print("Execution time: ", total_time, " seconds")
 
-file.write("Execution time: " + str(total_time) + " seconds\n")
+file.write("- Execution time: " + str(total_time) + " seconds\n" + "\n")
+file.write("- Consumed Memory: " + str(mem_used) + "\n")
 
 fig, ax = plt.subplots()
 
@@ -146,11 +151,11 @@ for row in set(Target):
     
 table = ax.table(cellText = table_data, loc = 'center')
 table.set_fontsize(10)
-table.scale(1,3)
+table.scale(1.25,1.25)
 ax.axis('off')
 
 print("-------------------------------")
-file.write("-------------------------------\n")
+
 
 for x in range(len(set(Target))):
     i = int(x) + 1
@@ -197,14 +202,21 @@ for x in range(len(set(Target))):
     print("Sensitivity: ", sensitivity)
     print("Specificity: ", specificity)
     print("-------------------------------")
-    file.write("Metrics for " + str(x) + ":\n")
-    file.write("Precision: " + str(precision) + "\n")
-    file.write("Recall: " + str(recall) + "\n")
-    file.write("F1-Score: " + str(F1Score) + "\n")
-    file.write("Sensitivity: " + str(sensitivity) + "\n")
-    file.write("Specificity: " + str(specificity) + "\n")
-    file.write("-------------------------------\n")
+    file.write("## Metrics for " + str(x) + ":\n")
+    file.write("| Metric | Result |\n")
+    file.write("| --- | --- | \n")
+    file.write("| Precision |" + str(precision) + " |\n")
+    file.write("| Recall |" + str(recall) + " |\n")
+    file.write("| F1-Score |" + str(F1Score) + " |\n")
+    file.write("| Sensitivity |" + str(sensitivity) + " |\n")
+    file.write("| Specificity |" + str(specificity) + " |\n")
+    file.write("\n")
+
+
+ 
           
-plt.savefig('Confusion_Matrix.pdf')
+plt.savefig('Confusion_Matrix.png')
+file.write("![Confusion Matrix](Confusion_Matrix.png)")
 
 file.close()
+
