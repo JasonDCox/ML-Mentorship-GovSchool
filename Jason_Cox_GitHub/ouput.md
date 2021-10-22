@@ -1,8 +1,8 @@
 ## General Metrics: 
 - Accuracy was: 1.0
-- Execution time: 2.3626346588134766 seconds
+- Execution time: 6.533982753753662 seconds
 
-- Consumed Memory: 458752
+- Consumed Memory: 884736
 ## Metrics for 0:
 | Metric | Result |
 | --- | --- | 
