@@ -7,3 +7,7 @@ A pet can approach the door to their home and be let in automatically. Currently
 ## Minimum Viable Product
 
 This device, at the very least, should be able to tell if what is in front of the door is a dog, and then unlock or open the door. 
+
+## Navigation 
+- Code:
+- System Documentation: Contains all directories regarding documentation 
