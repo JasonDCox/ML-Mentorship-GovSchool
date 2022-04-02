@@ -1,0 +1,10 @@
+dog-saint_bernard 0.45968068 44 53 265 260
+dog-leonberger 0.061674803 18 42 267 360
+cat-Siamese 0.02044323 173 129 204 148
+dog-american_pit_bull_terrier 0.019598782 -3 58 293 538
+cat-Birman 0.016537935 113 54 139 69
+dog-saint_bernard 0.015877903 -45 23 252 239
+dog-basset_hound 0.013268858 464 113 499 239
+dog-basset_hound 0.012484372 173 96 261 248
+dog-staffordshire_bull_terrier 0.011685222 147 183 182 215
+dog-saint_bernard 0.010932684 367 29 401 43

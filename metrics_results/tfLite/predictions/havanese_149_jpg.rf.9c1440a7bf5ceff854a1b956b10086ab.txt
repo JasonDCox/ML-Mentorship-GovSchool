@@ -1,0 +1,10 @@
+dog-havanese 0.7825205 124 29 323 235
+dog-newfoundland 0.041157693 120 35 308 149
+dog-english_cocker_spaniel 0.039608 125 32 384 335
+cat-Persian 0.016030252 371 287 409 298
+dog-basset_hound 0.011039257 147 43 561 347
+dog-leonberger 0.008975297 224 110 266 120
+cat-Egyptian_Mau 0.008421421 -2 109 30 196
+dog-leonberger 0.008078307 -3 62 31 149
+dog-staffordshire_bull_terrier 0.00794065 390 44 431 56
+dog-leonberger 0.007864654 -3 35 30 116

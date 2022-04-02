@@ -1,0 +1,10 @@
+dog-wheaten_terrier 0.75704646 179 37 340 186
+cat-Siamese 0.016702116 105 117 148 139
+cat-Bombay 0.014463127 49 0 191 27
+dog-yorkshire_terrier 0.01002419 83 -6 231 36
+dog-yorkshire_terrier 0.010017037 66 1 243 46
+dog-chihuahua 0.009734541 310 3 442 48
+dog-yorkshire_terrier 0.0090458095 0 -19 248 89
+dog-basset_hound 0.009017289 209 236 261 276
+dog-saint_bernard 0.008025289 95 124 139 146
+dog-basset_hound 0.007954031 -102 19 390 328

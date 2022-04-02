@@ -1,0 +1,10 @@
+dog-newfoundland 0.07025823 173 7 515 302
+dog-yorkshire_terrier 0.016096234 23 -7 431 115
+dog-wheaten_terrier 0.015879154 235 83 303 103
+dog-wheaten_terrier 0.01430428 146 -30 525 216
+dog-leonberger 0.01285395 199 44 613 406
+dog-yorkshire_terrier 0.012554526 29 -19 336 76
+cat-Bombay 0.012376964 469 0 500 14
+dog-yorkshire_terrier 0.011277586 130 1 371 54
+dog-wheaten_terrier 0.010195196 183 84 324 212
+cat-Bombay 0.009564012 335 152 524 327

@@ -1,0 +1,10 @@
+cat-Maine_Coon 0.88786745 223 81 384 277
+cat-Abyssinian 0.018082619 22 237 43 268
+cat-Siamese 0.014904588 20 -2 162 40
+bella 0.012179226 0 174 36 258
+dog-pomeranian 0.011431992 168 -31 484 128
+cat-Egyptian_Mau 0.010290891 2 228 43 330
+cat-Egyptian_Mau 0.009367168 -1 35 30 122
+cat-British_Shorthair 0.008869082 10 81 402 296
+cat-Bombay 0.008642256 315 0 508 61
+dog-english_cocker_spaniel 0.008368611 -3 92 32 179

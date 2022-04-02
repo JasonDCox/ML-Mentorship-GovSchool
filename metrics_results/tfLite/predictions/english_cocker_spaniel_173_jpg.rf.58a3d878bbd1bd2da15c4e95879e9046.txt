@@ -1,0 +1,10 @@
+dog-english_setter 0.7919316 52 73 216 227
+dog-english_cocker_spaniel 0.024734706 -27 77 216 244
+dog-english_cocker_spaniel 0.016675651 66 87 493 299
+dog-english_cocker_spaniel 0.015823722 291 110 502 381
+bella 0.013163179 226 210 255 262
+dog-havanese 0.011615902 366 99 424 123
+dog-wheaten_terrier 0.009806454 446 130 508 246
+cat-Siamese 0.009446651 115 128 144 142
+dog-pomeranian 0.009290218 -3 -1 148 64
+dog-yorkshire_terrier 0.009159148 365 10 544 207

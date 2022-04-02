@@ -1,0 +1,10 @@
+dog-yorkshire_terrier 0.9826368 83 55 192 138
+cat-Abyssinian 0.032057643 154 0 171 10
+dog-yorkshire_terrier 0.028447837 42 52 183 147
+dog-yorkshire_terrier 0.0175471 71 0 214 147
+dog-yorkshire_terrier 0.013811499 118 61 192 130
+dog-miniature_pinscher 0.012727976 253 71 299 149
+cat-Bombay 0.010099739 161 0 225 17
+dog-yorkshire_terrier 0.009421587 197 -17 336 52
+dog-yorkshire_terrier 0.007835776 214 4 326 100
+dog-yorkshire_terrier 0.0071457326 190 1 311 55

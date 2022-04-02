@@ -1,0 +1,10 @@
+dog-leonberger 0.94322634 119 12 258 147
+dog-american_pit_bull_terrier 0.017126262 223 4 483 104
+cat-Bombay 0.016958237 322 0 468 26
+dog-pug 0.016840905 117 6 503 119
+cat-Persian 0.015142679 107 162 502 344
+dog-yorkshire_terrier 0.012694716 135 5 361 121
+dog-saint_bernard 0.012028277 323 96 434 148
+bella 0.01150623 468 126 499 210
+dog-yorkshire_terrier 0.010764152 116 4 587 221
+dog-american_pit_bull_terrier 0.010506272 297 -25 564 79

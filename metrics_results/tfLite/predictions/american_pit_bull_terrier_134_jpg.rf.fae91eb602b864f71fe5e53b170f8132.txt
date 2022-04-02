@@ -1,0 +1,10 @@
+dog-american_pit_bull_terrier 0.9624822 43 20 137 106
+dog-pug 0.015915811 22 -6 140 107
+dog-yorkshire_terrier 0.010055333 -25 13 139 118
+dog-yorkshire_terrier 0.008345753 220 7 325 131
+cat-Egyptian_Mau 0.007621348 -1 25 19 76
+dog-havanese 0.0071748495 230 39 326 174
+dog-leonberger 0.005322635 -3 80 19 130
+cat-Bombay 0.005201459 263 0 300 25
+cat-Egyptian_Mau 0.0051511526 105 137 302 259
+cat-Siamese 0.0048347414 204 0 302 34

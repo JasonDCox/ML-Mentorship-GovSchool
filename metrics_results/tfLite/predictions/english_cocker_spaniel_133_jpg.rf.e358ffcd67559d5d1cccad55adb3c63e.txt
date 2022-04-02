@@ -1,0 +1,10 @@
+dog-german_shorthaired 0.7633848 10 17 263 249
+dog-miniature_pinscher 0.027713954 -58 -45 238 218
+cat-Bengal 0.020901859 281 0 359 48
+dog-english_cocker_spaniel 0.018643886 330 145 357 294
+dog-newfoundland 0.013469487 158 213 246 289
+dog-english_cocker_spaniel 0.010923952 122 28 258 233
+dog-english_cocker_spaniel 0.0101720095 330 183 357 330
+cat-Bombay 0.009636462 307 1 356 46
+cat-Bombay 0.009568185 241 -1 347 36
+cat-Birman 0.009122044 0 227 21 335

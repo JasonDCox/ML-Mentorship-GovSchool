@@ -1,0 +1,10 @@
+dog-scottish_terrier 0.92503214 90 3 395 347
+cat-Abyssinian 0.028229147 4 2 120 125
+dog-scottish_terrier 0.020893604 -34 45 385 330
+dog-leonberger 0.018389314 2 132 33 210
+dog-miniature_pinscher 0.017807126 121 4 387 175
+cat-Maine_Coon 0.011301577 110 -1 189 32
+dog-great_pyrenees 0.009889603 18 116 75 138
+dog-staffordshire_bull_terrier 0.009123385 425 325 462 339
+cat-Abyssinian 0.008079737 39 7 118 114
+cat-Siamese 0.0076153874 370 3 498 62

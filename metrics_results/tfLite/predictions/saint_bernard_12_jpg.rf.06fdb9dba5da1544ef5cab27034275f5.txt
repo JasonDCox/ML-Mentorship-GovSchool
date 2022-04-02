@@ -1,0 +1,10 @@
+dog-leonberger 0.5250731 143 26 378 269
+dog-saint_bernard 0.025915772 -51 19 418 334
+cat-Bombay 0.02001372 327 -1 463 27
+dog-leonberger 0.019998938 54 29 429 436
+dog-basset_hound 0.013858348 3 249 30 326
+cat-Russian_Blue 0.009470016 77 -1 226 28
+dog-japanese_chin 0.00916028 153 2 535 251
+cat-Egyptian_Mau 0.009156048 -11 1 147 75
+cat-Persian 0.009115428 279 208 348 225
+dog-great_pyrenees 0.0088605285 184 162 345 262

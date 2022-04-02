@@ -1,0 +1,10 @@
+dog-havanese 0.888634 36 106 256 278
+dog-havanese 0.031826794 -18 30 247 297
+cat-Abyssinian 0.014463246 247 0 335 44
+dog-miniature_pinscher 0.012920529 -8 0 106 66
+dog-wheaten_terrier 0.011675954 113 114 252 281
+cat-Bombay 0.011518747 32 -1 129 39
+cat-British_Shorthair 0.009812385 0 2 24 13
+cat-Egyptian_Mau 0.009572625 -3 227 19 329
+dog-newfoundland 0.008091718 171 120 250 255
+cat-Siamese 0.007709712 104 2 164 34

@@ -1,0 +1,10 @@
+dog-chihuahua 0.8707786 119 7 251 183
+dog-yorkshire_terrier 0.03222266 33 0 181 48
+cat-Bombay 0.016648233 205 14 248 103
+cat-Birman 0.011852741 1 0 51 13
+cat-Bombay 0.0096799135 259 1 302 27
+dog-miniature_pinscher 0.009412199 23 10 255 182
+cat-Maine_Coon 0.008518577 36 0 108 21
+dog-american_pit_bull_terrier 0.008381665 120 83 247 178
+cat-Ragdoll 0.008245558 18 -1 68 13
+dog-chihuahua 0.0077872574 126 30 312 208

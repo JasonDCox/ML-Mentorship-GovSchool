@@ -1,0 +1,10 @@
+dog-chihuahua 0.88049877 111 0 252 98
+dog-keeshond 0.36164397 1 0 113 49
+dog-miniature_pinscher 0.079018086 64 0 256 130
+dog-pomeranian 0.032649964 68 0 95 12
+dog-miniature_pinscher 0.020507753 103 -2 316 132
+cat-Bombay 0.017795682 184 6 250 71
+dog-scottish_terrier 0.015209973 34 -7 272 97
+dog-samoyed 0.014674336 58 1 107 14
+dog-miniature_pinscher 0.01165241 -71 -28 215 97
+dog-german_shorthaired 0.011016309 192 57 217 63

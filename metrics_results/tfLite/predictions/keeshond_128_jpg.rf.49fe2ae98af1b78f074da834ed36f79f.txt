@@ -1,0 +1,10 @@
+dog-scottish_terrier 0.18086934 54 4 545 240
+cat-Siamese 0.023314 70 1 211 48
+dog-miniature_pinscher 0.014146417 177 -58 601 192
+dog-shiba_inu 0.013523102 2 0 133 73
+cat-Russian_Blue 0.012056261 261 119 317 148
+cat-Bengal 0.010888696 -109 18 559 313
+dog-miniature_pinscher 0.010741353 214 30 559 318
+cat-Siamese 0.009362668 90 -1 269 50
+cat-Russian_Blue 0.0091744065 336 0 468 25
+bella 0.008975625 1 86 32 161

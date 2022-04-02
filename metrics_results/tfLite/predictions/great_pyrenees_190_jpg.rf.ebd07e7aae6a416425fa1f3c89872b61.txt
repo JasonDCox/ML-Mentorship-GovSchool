@@ -1,0 +1,10 @@
+dog-great_pyrenees 0.9888471 93 66 213 176
+dog-yorkshire_terrier 0.015579641 358 2 542 152
+dog-english_cocker_spaniel 0.013453484 2 180 34 243
+dog-yorkshire_terrier 0.012809247 208 -6 559 120
+cat-Persian 0.012637436 347 355 409 370
+dog-yorkshire_terrier 0.012067378 376 31 542 219
+dog-yorkshire_terrier 0.0097794235 321 -29 560 93
+dog-english_cocker_spaniel 0.009105593 0 108 36 185
+dog-english_cocker_spaniel 0.008959025 2 191 38 259
+dog-staffordshire_bull_terrier 0.0076645315 380 335 415 351

@@ -1,0 +1,10 @@
+cat-Bengal 0.8509686 97 31 228 185
+cat-Bengal 0.05007592 -38 9 236 186
+cat-Bengal 0.03302434 96 124 165 182
+dog-american_pit_bull_terrier 0.023204297 230 2 313 45
+dog-shiba_inu 0.019347996 -8 0 89 51
+cat-Birman 0.017041445 260 1 313 24
+cat-Egyptian_Mau 0.015462279 0 59 18 129
+bella 0.012973517 1 21 20 76
+dog-shiba_inu 0.009866983 93 0 164 39
+dog-basset_hound 0.009313375 1 37 18 97

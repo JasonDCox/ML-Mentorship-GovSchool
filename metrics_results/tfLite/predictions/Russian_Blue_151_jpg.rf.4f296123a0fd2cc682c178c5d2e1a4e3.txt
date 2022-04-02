@@ -1,0 +1,10 @@
+cat-Russian_Blue 0.98550963 5 15 249 309
+cat-Russian_Blue 0.046924382 -79 -68 260 308
+dog-yorkshire_terrier 0.02548942 -3 22 32 102
+dog-english_setter 0.023825347 412 81 513 245
+dog-english_setter 0.023118913 439 171 518 277
+dog-yorkshire_terrier 0.021764725 -6 16 67 166
+dog-american_pit_bull_terrier 0.01806581 434 147 517 251
+cat-Egyptian_Mau 0.015675545 -94 41 257 469
+dog-basset_hound 0.012496889 -7 48 66 221
+dog-chihuahua 0.011519849 5 21 53 115

@@ -1,0 +1,10 @@
+dog-scottish_terrier 0.89467454 266 82 415 204
+cat-Abyssinian 0.042901993 465 41 499 128
+dog-scottish_terrier 0.023772895 247 77 425 259
+cat-British_Shorthair 0.020443946 304 42 331 52
+cat-Abyssinian 0.01675281 468 39 507 106
+dog-basset_hound 0.013559312 469 62 499 159
+dog-wheaten_terrier 0.0115484 -29 70 421 286
+dog-scottish_terrier 0.010812789 257 86 538 341
+cat-Abyssinian 0.0101622045 471 56 502 123
+cat-Abyssinian 0.008580118 471 33 505 88

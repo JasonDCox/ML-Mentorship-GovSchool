@@ -1,0 +1,10 @@
+cat-Birman 0.95584786 226 43 345 173
+dog-yorkshire_terrier 0.013865799 344 1 517 72
+dog-yorkshire_terrier 0.009867847 8 1 197 62
+dog-yorkshire_terrier 0.00835228 -1 -18 279 77
+dog-staffordshire_bull_terrier 0.008122683 46 33 384 326
+dog-japanese_chin 0.008051604 223 114 333 170
+dog-basset_hound 0.0074614286 -146 41 428 370
+cat-Bombay 0.006693572 320 0 409 19
+dog-leonberger 0.0061627626 360 146 380 163
+dog-american_bulldog 0.0059862435 186 19 570 224

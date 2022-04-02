@@ -1,0 +1,10 @@
+cat-Bombay 0.97089756 23 70 106 161
+cat-Russian_Blue 0.07117909 99 98 256 387
+cat-Russian_Blue 0.017530322 23 30 261 386
+cat-Bombay 0.016722828 -8 44 100 165
+dog-great_pyrenees 0.010735601 -1 167 53 227
+dog-yorkshire_terrier 0.010622054 134 0 262 80
+dog-yorkshire_terrier 0.0084834695 161 -29 285 84
+cat-Abyssinian 0.007635027 175 148 265 366
+dog-american_bulldog 0.0072326064 141 99 169 122
+dog-great_pyrenees 0.0069108605 1 166 44 250

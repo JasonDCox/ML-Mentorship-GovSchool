@@ -1,0 +1,10 @@
+cat-Russian_Blue 0.81664646 0 9 262 296
+dog-staffordshire_bull_terrier 0.041864693 3 11 271 589
+cat-Russian_Blue 0.018775195 112 31 255 269
+cat-Maine_Coon 0.010639012 0 401 41 502
+cat-Russian_Blue 0.009801418 -44 -45 217 240
+cat-Birman 0.008813858 22 1 46 12
+dog-english_setter 0.00850606 -2 14 16 111
+cat-Birman 0.007928163 16 1 37 11
+bella 0.0077893734 265 218 282 319
+cat-Egyptian_Mau 0.007763207 74 0 109 20

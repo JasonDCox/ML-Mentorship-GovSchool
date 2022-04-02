@@ -1,0 +1,10 @@
+dog-samoyed 0.9809457 230 122 315 232
+dog-miniature_pinscher 0.020001888 213 4 490 124
+dog-yorkshire_terrier 0.017176956 79 -3 465 171
+dog-miniature_pinscher 0.01692596 288 -1 532 119
+cat-Egyptian_Mau 0.015442848 236 124 303 163
+cat-Egyptian_Mau 0.0120717585 -17 92 345 446
+dog-american_pit_bull_terrier 0.01174283 116 14 569 237
+cat-Bombay 0.011628747 187 0 353 32
+dog-wheaten_terrier 0.01014626 1 159 56 254
+cat-Bengal 0.010005385 293 0 393 22

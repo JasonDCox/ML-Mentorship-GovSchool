@@ -1,0 +1,10 @@
+dog-american_bulldog 0.5144559 134 214 330 395
+cat-Birman 0.018712103 2 7 345 278
+dog-american_bulldog 0.016233653 -89 66 379 466
+dog-staffordshire_bull_terrier 0.013371527 95 204 338 452
+cat-Bombay 0.011940807 5 0 154 72
+dog-basset_hound 0.010798335 3 223 53 378
+cat-Bombay 0.009895295 241 0 378 71
+cat-British_Shorthair 0.0091638565 7 134 347 430
+dog-wheaten_terrier 0.008704454 133 223 153 305
+dog-saint_bernard 0.007744968 115 220 150 307

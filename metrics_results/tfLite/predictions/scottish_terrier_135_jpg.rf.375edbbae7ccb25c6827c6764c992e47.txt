@@ -1,0 +1,10 @@
+dog-scottish_terrier 0.9644125 221 18 318 181
+cat-Abyssinian 0.024862438 230 18 314 104
+dog-english_cocker_spaniel 0.022283226 215 118 324 179
+cat-Bombay 0.01682964 327 0 460 25
+dog-yorkshire_terrier 0.016220212 327 3 511 76
+cat-Bombay 0.0143895745 82 0 225 25
+cat-Egyptian_Mau 0.010314137 233 19 309 52
+dog-english_cocker_spaniel 0.009998202 -68 -1 333 241
+dog-leonberger 0.009753883 206 48 638 432
+dog-shiba_inu 0.008978546 -1 18 308 199

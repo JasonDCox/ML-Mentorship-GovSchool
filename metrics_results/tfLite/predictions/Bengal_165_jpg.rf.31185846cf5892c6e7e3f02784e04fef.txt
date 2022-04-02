@@ -1,0 +1,10 @@
+cat-Abyssinian 0.1854248 54 22 113 107
+dog-chihuahua 0.05421725 31 16 112 122
+dog-shiba_inu 0.034214348 -1 27 35 115
+dog-yorkshire_terrier 0.023028284 102 -1 294 93
+cat-Maine_Coon 0.018890262 52 204 73 223
+cat-Siamese 0.01705715 59 10 174 99
+dog-american_pit_bull_terrier 0.015506208 -2 82 45 207
+dog-yorkshire_terrier 0.015033901 186 -20 310 71
+dog-scottish_terrier 0.01368171 1 42 36 138
+dog-yorkshire_terrier 0.01179269 126 -12 283 75

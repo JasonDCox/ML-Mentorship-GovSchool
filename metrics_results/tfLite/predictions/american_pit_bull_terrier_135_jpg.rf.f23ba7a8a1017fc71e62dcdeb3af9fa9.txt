@@ -1,0 +1,10 @@
+dog-american_pit_bull_terrier 0.85463494 98 38 164 126
+dog-yorkshire_terrier 0.017720133 212 13 331 154
+bella 0.011936247 1 53 24 94
+cat-Egyptian_Mau 0.009361148 122 18 141 24
+cat-Siamese 0.0074249506 -5 -1 104 35
+cat-Egyptian_Mau 0.006710857 -1 110 18 160
+cat-Ragdoll 0.0067065954 211 200 233 209
+dog-yorkshire_terrier 0.006667465 205 -18 331 66
+dog-staffordshire_bull_terrier 0.0066362023 238 200 257 210
+dog-yorkshire_terrier 0.0066285133 185 1 328 74

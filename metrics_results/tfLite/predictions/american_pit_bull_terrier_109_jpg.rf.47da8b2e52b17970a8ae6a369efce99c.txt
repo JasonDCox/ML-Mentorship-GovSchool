@@ -1,0 +1,10 @@
+dog-american_pit_bull_terrier 0.9691851 49 18 161 147
+dog-leonberger 0.009379119 65 164 87 196
+dog-chihuahua 0.008971453 60 6 285 186
+cat-Bombay 0.008212566 29 0 96 22
+cat-Bombay 0.007897854 147 0 218 22
+dog-american_pit_bull_terrier 0.00785774 -21 5 186 166
+cat-Siamese 0.0073379576 149 -2 226 32
+cat-Siamese 0.006687492 9 -3 80 31
+dog-american_bulldog 0.0059356987 -56 -40 167 133
+dog-pomeranian 0.0057575107 72 78 160 147

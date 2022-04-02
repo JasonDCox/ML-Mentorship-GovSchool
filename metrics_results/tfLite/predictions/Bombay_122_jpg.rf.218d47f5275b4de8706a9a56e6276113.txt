@@ -1,0 +1,10 @@
+cat-British_Shorthair 0.031610906 -26 77 486 316
+dog-american_bulldog 0.021987617 98 104 144 129
+cat-Russian_Blue 0.018352091 113 96 494 288
+dog-american_bulldog 0.017664135 90 105 133 131
+dog-american_pit_bull_terrier 0.015148938 244 119 311 142
+cat-Maine_Coon 0.014377683 111 162 153 185
+cat-Bengal 0.011085659 -107 39 525 377
+dog-staffordshire_bull_terrier 0.007992446 104 88 498 424
+dog-yorkshire_terrier 0.007560909 3 -25 381 110
+dog-english_cocker_spaniel 0.0074421763 464 210 500 309

@@ -1,0 +1,10 @@
+dog-havanese 0.95088387 -5 6 267 219
+cat-Bengal 0.14378071 0 229 32 359
+dog-havanese 0.028191417 -61 -51 238 207
+dog-staffordshire_bull_terrier 0.024636418 223 459 245 479
+dog-wheaten_terrier 0.021814495 5 25 114 219
+dog-havanese 0.019789219 -37 -20 289 281
+dog-wheaten_terrier 0.018629491 105 23 268 201
+cat-Persian 0.017562568 165 225 194 250
+cat-Bengal 0.016485214 -3 254 26 359
+dog-staffordshire_bull_terrier 0.014937371 223 466 246 483

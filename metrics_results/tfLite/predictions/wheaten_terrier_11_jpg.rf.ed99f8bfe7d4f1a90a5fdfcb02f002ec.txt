@@ -1,0 +1,10 @@
+dog-wheaten_terrier 0.98218393 128 74 331 242
+dog-miniature_pinscher 0.029401451 160 62 580 281
+dog-miniature_pinscher 0.023096174 306 1 555 105
+cat-Bombay 0.015815169 190 0 346 27
+dog-scottish_terrier 0.01474154 -49 60 343 267
+cat-Bengal 0.012281299 325 2 510 83
+dog-miniature_pinscher 0.0103550255 327 -20 563 75
+cat-Bombay 0.0088303685 425 1 499 28
+cat-Russian_Blue 0.008015037 -3 32 31 101
+dog-english_cocker_spaniel 0.007572472 133 70 418 262

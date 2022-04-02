@@ -1,0 +1,10 @@
+dog-english_setter 0.54201305 293 168 438 297
+cat-Bombay 0.009950191 228 -1 357 27
+cat-Bombay 0.009696931 239 0 334 20
+dog-great_pyrenees 0.008659124 265 -93 582 275
+cat-Egyptian_Mau 0.008400381 -2 181 31 268
+cat-Maine_Coon 0.008151174 239 0 296 13
+cat-Bombay 0.007850349 117 0 267 29
+dog-basset_hound 0.007557988 2 39 71 176
+dog-american_pit_bull_terrier 0.0075377524 -51 39 139 303
+dog-yorkshire_terrier 0.0074691474 49 7 433 207

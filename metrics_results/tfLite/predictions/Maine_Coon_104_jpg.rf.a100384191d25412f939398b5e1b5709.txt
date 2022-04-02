@@ -1,0 +1,10 @@
+cat-Maine_Coon 0.9760529 127 54 225 159
+cat-Maine_Coon 0.013585091 127 104 209 159
+dog-scottish_terrier 0.013267487 -3 212 30 290
+dog-yorkshire_terrier 0.012641668 324 -29 568 80
+dog-american_pit_bull_terrier 0.009641916 14 1 185 55
+dog-yorkshire_terrier 0.00815016 236 -22 590 96
+dog-american_pit_bull_terrier 0.007812679 35 -6 189 43
+dog-american_bulldog 0.007325053 294 116 329 157
+dog-shiba_inu 0.006913811 215 -2 461 62
+cat-Maine_Coon 0.0069090724 130 47 360 159

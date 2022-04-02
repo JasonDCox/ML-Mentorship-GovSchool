@@ -1,0 +1,10 @@
+dog-miniature_pinscher 0.56435186 50 32 172 107
+cat-Bengal 0.032986224 -31 33 189 162
+cat-Egyptian_Mau 0.019628227 0 84 54 153
+dog-english_setter 0.01612845 36 39 174 163
+dog-yorkshire_terrier 0.009747714 120 0 206 36
+cat-Birman 0.008965611 93 -1 159 14
+cat-Egyptian_Mau 0.008302629 141 66 152 71
+dog-yorkshire_terrier 0.007666558 131 1 203 24
+dog-yorkshire_terrier 0.0075247884 36 -7 171 111
+cat-Siamese 0.007310897 99 0 139 8

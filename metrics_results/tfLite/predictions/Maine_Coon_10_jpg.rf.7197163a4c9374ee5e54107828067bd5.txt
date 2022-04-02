@@ -1,0 +1,10 @@
+cat-Abyssinian 0.8672055 97 86 424 455
+cat-British_Shorthair 0.05985385 -52 37 454 502
+dog-staffordshire_bull_terrier 0.011991262 174 793 216 826
+cat-British_Shorthair 0.011223048 -123 -98 408 408
+dog-staffordshire_bull_terrier 0.010871202 191 85 244 110
+dog-staffordshire_bull_terrier 0.009557039 208 793 254 827
+dog-staffordshire_bull_terrier 0.009451121 193 92 241 116
+dog-great_pyrenees 0.008518755 459 206 511 272
+dog-great_pyrenees 0.007873058 472 209 531 273
+dog-havanese 0.005706221 477 575 534 622

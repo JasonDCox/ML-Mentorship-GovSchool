@@ -1,0 +1,10 @@
+dog-miniature_pinscher 0.4763176 136 47 235 189
+dog-english_cocker_spaniel 0.071407765 -39 18 245 347
+dog-basset_hound 0.025796235 139 70 226 373
+dog-scottish_terrier 0.018593073 1 25 245 218
+dog-american_pit_bull_terrier 0.014838874 81 8 314 328
+dog-english_cocker_spaniel 0.013594836 -95 45 267 535
+cat-Bombay 0.013260454 182 -1 266 38
+dog-basset_hound 0.011073649 146 285 212 382
+dog-basset_hound 0.010045528 153 316 200 383
+cat-Bengal 0.009843767 -73 -55 209 247

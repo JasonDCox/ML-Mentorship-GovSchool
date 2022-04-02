@@ -1,0 +1,10 @@
+cat-British_Shorthair 0.50973934 146 39 257 167
+dog-yorkshire_terrier 0.020689756 135 9 442 344
+cat-Ragdoll 0.015719205 88 22 250 163
+bella 0.015513539 0 302 98 510
+dog-yorkshire_terrier 0.014283836 164 25 337 155
+cat-Siamese 0.013024956 2 -4 113 56
+dog-havanese 0.012814313 117 73 475 642
+cat-Persian 0.011839986 185 396 218 418
+dog-yorkshire_terrier 0.010790348 6 8 244 163
+dog-yorkshire_terrier 0.009228319 137 -49 468 242

@@ -1,0 +1,10 @@
+dog-german_shorthaired 0.76904655 144 114 300 215
+cat-Egyptian_Mau 0.042761356 465 0 498 59
+dog-german_shorthaired 0.022646546 123 115 316 253
+dog-pomeranian 0.011692673 39 -3 411 163
+cat-Egyptian_Mau 0.010796547 468 4 503 74
+cat-Bengal 0.010092378 -2 2 161 60
+cat-Bengal 0.0093849 -1 -2 146 42
+bella 0.009359688 465 149 496 236
+dog-yorkshire_terrier 0.009208888 -44 -5 329 152
+dog-basset_hound 0.008569747 467 118 498 208

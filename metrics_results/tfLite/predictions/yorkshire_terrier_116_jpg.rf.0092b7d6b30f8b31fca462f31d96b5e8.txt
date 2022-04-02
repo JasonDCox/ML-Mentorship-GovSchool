@@ -1,0 +1,10 @@
+dog-yorkshire_terrier 0.7533072 55 9 233 145
+dog-havanese 0.0404568 36 -1 246 202
+dog-wheaten_terrier 0.03566864 188 39 232 129
+dog-havanese 0.032099575 21 9 267 292
+dog-keeshond 0.018894255 195 59 236 143
+dog-yorkshire_terrier 0.014517486 62 -1 312 150
+dog-yorkshire_terrier 0.013257146 67 0 141 27
+dog-great_pyrenees 0.012825936 66 3 158 35
+bella 0.012750268 1 99 19 158
+cat-Siamese 0.011913002 10 -2 96 25

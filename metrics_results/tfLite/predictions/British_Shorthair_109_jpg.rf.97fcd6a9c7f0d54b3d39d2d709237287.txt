@@ -1,0 +1,10 @@
+cat-British_Shorthair 0.97094584 104 13 452 298
+cat-British_Shorthair 0.023936749 -61 14 446 329
+cat-Maine_Coon 0.013324618 233 159 316 201
+cat-Ragdoll 0.011814773 65 2 137 28
+cat-British_Shorthair 0.009573251 116 101 430 289
+dog-yorkshire_terrier 0.009166986 25 5 161 64
+cat-British_Shorthair 0.007008821 131 174 404 292
+cat-Ragdoll 0.0067774355 96 4 148 27
+dog-yorkshire_terrier 0.0060619116 -65 -27 174 97
+dog-yorkshire_terrier 0.0057718754 -34 -1 202 139

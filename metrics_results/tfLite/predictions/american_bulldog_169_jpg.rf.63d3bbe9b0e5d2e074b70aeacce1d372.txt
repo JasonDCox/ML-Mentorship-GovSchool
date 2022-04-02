@@ -1,0 +1,10 @@
+dog-staffordshire_bull_terrier 0.23992673 75 85 317 298
+bella 0.12941074 51 59 443 302
+cat-Egyptian_Mau 0.0357019 -67 84 426 350
+dog-shiba_inu 0.013694227 122 28 551 286
+dog-american_bulldog 0.013032138 24 -35 481 294
+dog-wheaten_terrier 0.012936652 352 203 407 225
+cat-Bombay 0.010687828 231 0 386 27
+dog-pug 0.008929312 -35 -21 227 69
+dog-wheaten_terrier 0.0078445375 338 203 394 224
+dog-wheaten_terrier 0.007498622 356 208 410 230

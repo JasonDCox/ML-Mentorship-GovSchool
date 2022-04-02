@@ -1,0 +1,10 @@
+cat-Egyptian_Mau 0.9553319 134 0 228 89
+dog-havanese 0.020793557 138 1 159 11
+dog-yorkshire_terrier 0.016322315 18 0 139 67
+cat-Birman 0.014402896 209 1 224 8
+dog-basset_hound 0.013181567 1 250 16 312
+cat-Egyptian_Mau 0.011755645 99 -4 214 82
+cat-Birman 0.010905743 10 -13 180 84
+dog-yorkshire_terrier 0.0107681155 45 2 154 52
+dog-american_pit_bull_terrier 0.010145336 0 74 47 242
+cat-Birman 0.009461343 47 3 214 106

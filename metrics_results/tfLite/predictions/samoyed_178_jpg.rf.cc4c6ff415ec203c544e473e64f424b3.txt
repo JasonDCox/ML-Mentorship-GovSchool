@@ -1,0 +1,10 @@
+dog-samoyed 0.9637786 205 37 277 152
+dog-yorkshire_terrier 0.009389758 75 2 240 50
+dog-samoyed 0.008940905 209 42 272 82
+cat-Bombay 0.008781165 424 1 502 30
+dog-great_pyrenees 0.008503199 5 138 71 250
+dog-chihuahua 0.008289248 -15 -1 174 47
+dog-wheaten_terrier 0.006830305 434 118 499 220
+dog-english_cocker_spaniel 0.006771803 459 153 500 237
+dog-yorkshire_terrier 0.0066594183 332 -24 569 78
+cat-Egyptian_Mau 0.0066593885 363 215 503 342

@@ -1,0 +1,10 @@
+dog-scottish_terrier 0.44515815 86 81 408 263
+dog-samoyed 0.03994298 -4 0 103 126
+dog-havanese 0.03439033 108 74 559 302
+dog-yorkshire_terrier 0.018805236 11 -22 258 84
+dog-staffordshire_bull_terrier 0.014703989 216 31 249 45
+dog-yorkshire_terrier 0.014561474 -10 -27 188 105
+dog-american_bulldog 0.013006151 290 97 348 119
+dog-yorkshire_terrier 0.012433112 25 0 273 120
+cat-Maine_Coon 0.012366295 281 150 333 177
+dog-newfoundland 0.011212826 86 86 288 256

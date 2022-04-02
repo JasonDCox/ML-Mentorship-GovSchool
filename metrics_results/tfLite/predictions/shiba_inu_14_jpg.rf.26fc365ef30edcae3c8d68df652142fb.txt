@@ -1,0 +1,10 @@
+dog-shiba_inu 0.9343723 137 102 199 198
+cat-Russian_Blue 0.029112935 -2 300 99 364
+dog-leonberger 0.021773398 126 111 568 376
+dog-yorkshire_terrier 0.017620087 225 -20 526 82
+dog-yorkshire_terrier 0.013463646 328 -28 558 83
+dog-yorkshire_terrier 0.013197839 368 3 544 155
+dog-great_pyrenees 0.011839479 318 111 398 172
+cat-Siamese 0.011591256 6 -1 158 53
+dog-great_pyrenees 0.010856718 317 96 397 155
+dog-great_pyrenees 0.010244042 292 95 376 154

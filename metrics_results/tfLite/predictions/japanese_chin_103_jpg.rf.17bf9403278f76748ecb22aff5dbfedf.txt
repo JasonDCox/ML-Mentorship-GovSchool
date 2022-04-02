@@ -1,0 +1,10 @@
+dog-japanese_chin 0.94971716 66 57 426 319
+dog-leonberger 0.015648931 0 238 34 293
+cat-Siamese 0.01062569 17 -5 167 41
+dog-leonberger 0.008940369 -6 242 32 310
+cat-Bombay 0.0073235333 279 -1 438 32
+dog-yorkshire_terrier 0.0066271424 329 -29 561 89
+dog-japanese_chin 0.0066268444 -46 25 416 352
+dog-staffordshire_bull_terrier 0.0060896873 251 172 284 191
+cat-Bombay 0.005974531 98 -7 277 42
+dog-keeshond 0.005015105 197 64 439 296

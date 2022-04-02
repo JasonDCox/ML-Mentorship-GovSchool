@@ -1,0 +1,10 @@
+dog-samoyed 0.97084117 212 71 296 202
+cat-Egyptian_Mau 0.022946328 221 74 291 159
+dog-great_pyrenees 0.021682799 215 42 317 181
+dog-great_pyrenees 0.010682851 180 19 601 235
+cat-Birman 0.009832263 -4 0 132 26
+dog-pomeranian 0.009402007 5 0 87 81
+dog-great_pyrenees 0.009242326 6 38 72 136
+dog-wheaten_terrier 0.009230107 -76 1 355 209
+dog-american_bulldog 0.008025736 174 71 221 135
+dog-havanese 0.00796026 226 24 350 76

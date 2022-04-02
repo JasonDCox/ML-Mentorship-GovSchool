@@ -1,0 +1,10 @@
+cat-Bombay 0.9716939 159 8 333 206
+dog-american_bulldog 0.020772457 333 52 356 64
+cat-British_Shorthair 0.016494453 -63 -3 343 205
+dog-yorkshire_terrier 0.015117794 161 -3 462 195
+cat-Egyptian_Mau 0.013622761 138 211 166 223
+cat-Birman 0.010214835 380 0 415 7
+bella 0.009228349 7 166 68 285
+cat-Siamese 0.007888585 5 -2 132 33
+dog-yorkshire_terrier 0.0073828697 74 5 245 50
+cat-British_Shorthair 0.0072345138 -122 -39 311 156

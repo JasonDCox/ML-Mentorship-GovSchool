@@ -1,0 +1,10 @@
+dog-saint_bernard 0.8640835 154 178 288 289
+dog-saint_bernard 0.021731853 149 108 288 282
+dog-beagle 0.01682213 229 192 285 288
+dog-basset_hound 0.016353041 -39 -18 299 329
+dog-beagle 0.015598118 104 59 259 160
+dog-american_pit_bull_terrier 0.010334313 91 2 363 295
+dog-saint_bernard 0.009190828 104 214 141 247
+dog-basset_hound 0.007939607 -94 -3 324 470
+dog-saint_bernard 0.0075890124 96 215 131 246
+dog-basset_hound 0.0069827437 42 -11 299 201

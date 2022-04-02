@@ -1,0 +1,10 @@
+dog-chihuahua 0.93421876 75 15 342 280
+cat-Bombay 0.026543021 132 0 265 25
+dog-yorkshire_terrier 0.020992994 79 20 173 189
+cat-Egyptian_Mau 0.019253641 278 259 303 273
+dog-miniature_pinscher 0.011302084 84 46 378 358
+dog-yorkshire_terrier 0.011154026 335 0 508 76
+dog-beagle 0.010341376 -114 -67 292 277
+dog-yorkshire_terrier 0.0089098215 68 18 149 159
+dog-yorkshire_terrier 0.008585215 273 7 562 112
+dog-american_bulldog 0.008199036 120 54 141 66

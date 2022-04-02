@@ -1,0 +1,10 @@
+dog-american_pit_bull_terrier 0.6815847 181 32 327 161
+cat-Bengal 0.015885234 -4 -1 101 30
+dog-american_bulldog 0.015730947 141 -16 334 161
+dog-chihuahua 0.015116304 179 14 592 214
+cat-Egyptian_Mau 0.012590706 471 70 501 129
+dog-boxer 0.0076894164 259 30 294 43
+dog-american_pit_bull_terrier 0.00756222 196 59 643 448
+dog-american_pit_bull_terrier 0.0073824525 155 -7 293 37
+dog-leonberger 0.0068121552 451 0 489 9
+cat-Egyptian_Mau 0.006675303 0 86 40 136

@@ -1,0 +1,10 @@
+cat-Persian 0.9190097 201 109 277 186
+bella 0.025067776 0 188 126 337
+cat-Bombay 0.016977757 180 0 331 25
+dog-yorkshire_terrier 0.013330191 180 13 547 179
+dog-yorkshire_terrier 0.013126403 105 -16 450 114
+dog-american_pit_bull_terrier 0.010054618 4 50 83 189
+cat-Bombay 0.009994447 137 0 303 26
+cat-Persian 0.009751648 158 109 274 184
+dog-yorkshire_terrier 0.009015799 182 -10 551 110
+dog-yorkshire_terrier 0.008915722 151 0 389 49

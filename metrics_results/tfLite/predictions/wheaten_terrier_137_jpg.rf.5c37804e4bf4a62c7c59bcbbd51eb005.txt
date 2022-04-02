@@ -1,0 +1,10 @@
+dog-wheaten_terrier 0.90047765 189 88 335 207
+cat-Bengal 0.09258187 77 0 154 51
+dog-basset_hound 0.03263992 -4 168 131 270
+cat-Abyssinian 0.032203257 26 0 145 48
+cat-Bengal 0.018814176 78 1 162 33
+dog-wheaten_terrier 0.01750964 114 81 336 213
+cat-Bengal 0.015339434 -68 6 357 233
+dog-yorkshire_terrier 0.013088703 120 3 362 217
+dog-english_cocker_spaniel 0.011980534 466 45 499 151
+cat-Bombay 0.010462135 131 0 289 27

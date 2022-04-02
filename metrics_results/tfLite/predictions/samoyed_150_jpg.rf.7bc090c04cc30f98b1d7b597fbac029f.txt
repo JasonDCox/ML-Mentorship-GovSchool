@@ -1,0 +1,10 @@
+dog-great_pyrenees 0.04266277 224 50 424 213
+dog-wheaten_terrier 0.022981197 223 75 439 289
+cat-Birman 0.018306077 31 1 62 8
+dog-great_pyrenees 0.013573676 107 36 395 215
+dog-shiba_inu 0.013536543 -15 -9 391 129
+cat-Bengal 0.010969192 123 -1 240 28
+dog-english_cocker_spaniel 0.01091373 -76 3 503 268
+dog-wheaten_terrier 0.009479046 276 95 491 354
+dog-shiba_inu 0.009432614 -26 2 298 166
+dog-great_pyrenees 0.009390324 68 8 413 179

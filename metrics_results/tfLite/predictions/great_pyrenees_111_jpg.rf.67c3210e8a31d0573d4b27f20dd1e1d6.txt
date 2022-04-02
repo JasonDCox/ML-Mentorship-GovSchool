@@ -1,0 +1,10 @@
+dog-wheaten_terrier 0.75308335 83 1 293 217
+dog-wheaten_terrier 0.022846758 88 3 425 219
+dog-wheaten_terrier 0.022492915 -26 -7 293 229
+dog-samoyed 0.0117711425 109 6 257 55
+dog-scottish_terrier 0.010441601 473 115 501 178
+dog-great_pyrenees 0.009641528 116 0 254 37
+dog-wheaten_terrier 0.00891313 383 147 533 324
+cat-Birman 0.008302599 115 0 152 12
+dog-wheaten_terrier 0.0075830817 -92 -38 306 171
+cat-Birman 0.007107854 122 1 156 9

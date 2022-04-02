@@ -1,0 +1,10 @@
+dog-great_pyrenees 0.96805036 196 97 308 204
+dog-yorkshire_terrier 0.039485127 239 8 549 178
+cat-Bombay 0.014232397 63 0 216 28
+cat-Siamese 0.012052238 5 -4 133 38
+dog-great_pyrenees 0.008639485 193 60 330 207
+dog-yorkshire_terrier 0.0079241395 335 3 503 53
+bella 0.007913649 4 111 73 226
+dog-yorkshire_terrier 0.007795751 342 28 541 205
+dog-yorkshire_terrier 0.007695377 329 -32 555 122
+dog-pomeranian 0.007573098 211 152 305 206

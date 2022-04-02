@@ -1,0 +1,10 @@
+cat-British_Shorthair 0.95443547 93 88 315 271
+cat-British_Shorthair 0.05094996 -13 79 339 291
+cat-Persian 0.02866152 445 0 500 41
+dog-american_pit_bull_terrier 0.0222601 375 -21 554 205
+dog-american_pit_bull_terrier 0.010126978 382 53 546 234
+dog-havanese 0.010030806 164 81 213 105
+cat-Russian_Blue 0.009562284 174 0 232 18
+cat-Persian 0.007905066 346 0 410 21
+cat-Siamese 0.0066764057 283 0 370 23
+cat-Persian 0.005079001 337 0 397 18

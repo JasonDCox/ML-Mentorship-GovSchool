@@ -1,0 +1,10 @@
+cat-Ragdoll 0.9008168 110 2 233 143
+cat-Egyptian_Mau 0.015041798 0 252 89 311
+dog-havanese 0.012391001 67 9 525 208
+dog-havanese 0.01090163 126 -36 651 158
+dog-basset_hound 0.00897181 0 90 50 166
+dog-yorkshire_terrier 0.008069903 367 4 543 142
+dog-havanese 0.0079728365 349 52 564 259
+dog-yorkshire_terrier 0.007236451 329 -24 559 73
+dog-yorkshire_terrier 0.00722003 374 26 547 192
+dog-great_pyrenees 0.00651896 260 281 315 298

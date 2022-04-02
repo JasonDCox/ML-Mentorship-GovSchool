@@ -1,0 +1,10 @@
+dog-american_bulldog 0.77467704 134 178 234 272
+dog-boxer 0.040813923 101 167 229 293
+cat-Bombay 0.017367303 -3 209 22 324
+dog-japanese_chin 0.015575051 1 19 351 290
+cat-Bengal 0.01450187 -3 172 23 281
+cat-Bengal 0.0120233 -4 -1 80 46
+dog-pomeranian 0.009763688 82 -23 339 246
+dog-american_pit_bull_terrier 0.009609014 17 -7 216 64
+cat-Egyptian_Mau 0.009027123 -1 261 22 375
+cat-Persian 0.008772522 107 -35 387 176

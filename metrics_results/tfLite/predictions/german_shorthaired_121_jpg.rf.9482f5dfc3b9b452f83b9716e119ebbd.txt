@@ -1,0 +1,10 @@
+dog-yorkshire_terrier 0.0411385 47 308 384 377
+dog-leonberger 0.038801104 -4 305 210 376
+dog-havanese 0.03528282 -117 62 489 410
+cat-Bengal 0.016082019 -6 188 34 263
+cat-Siamese 0.015355587 88 -3 243 38
+dog-american_bulldog 0.014437109 137 -2 290 38
+cat-Siamese 0.013354957 189 -3 340 38
+dog-american_bulldog 0.0128950775 15 2 148 52
+dog-staffordshire_bull_terrier 0.012036711 338 335 374 348
+cat-Siamese 0.011582315 63 1 221 49

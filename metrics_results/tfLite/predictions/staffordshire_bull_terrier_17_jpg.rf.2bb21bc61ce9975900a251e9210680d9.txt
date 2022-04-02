@@ -1,0 +1,10 @@
+dog-american_pit_bull_terrier 0.4256359 266 67 345 156
+dog-american_pit_bull_terrier 0.029536635 227 -2 572 272
+dog-shiba_inu 0.013867766 271 5 494 73
+cat-Persian 0.01354304 269 318 336 333
+dog-american_bulldog 0.013518244 326 68 354 76
+cat-Persian 0.010826379 248 317 316 333
+dog-leonberger 0.009100139 259 66 553 351
+bella 0.008836955 4 181 32 268
+dog-staffordshire_bull_terrier 0.008356541 18 18 470 233
+dog-american_pit_bull_terrier 0.007518649 141 -67 687 213

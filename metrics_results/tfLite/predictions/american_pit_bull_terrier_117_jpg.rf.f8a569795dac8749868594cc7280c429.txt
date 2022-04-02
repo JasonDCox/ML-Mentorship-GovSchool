@@ -1,0 +1,10 @@
+dog-american_pit_bull_terrier 0.7759427 51 13 249 187
+dog-leonberger 0.016355544 -1 99 19 143
+cat-Bengal 0.013856322 -39 26 260 203
+cat-Egyptian_Mau 0.009348333 0 112 18 157
+dog-american_pit_bull_terrier 0.007968128 63 20 238 115
+dog-pug 0.0077546835 9 2 92 29
+bella 0.007570237 278 38 299 81
+dog-chihuahua 0.0068233907 292 73 300 86
+dog-staffordshire_bull_terrier 0.0065555573 111 80 129 88
+cat-Maine_Coon 0.006409198 133 135 165 144

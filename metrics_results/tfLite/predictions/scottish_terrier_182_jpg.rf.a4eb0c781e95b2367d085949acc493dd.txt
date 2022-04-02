@@ -1,0 +1,10 @@
+dog-scottish_terrier 0.93142843 214 63 434 284
+dog-yorkshire_terrier 0.039370358 322 3 511 80
+dog-yorkshire_terrier 0.021095842 221 57 335 236
+cat-Bombay 0.01917687 163 0 288 27
+dog-english_cocker_spaniel 0.015500933 -110 35 469 325
+cat-Bombay 0.014338851 291 0 445 25
+dog-scottish_terrier 0.013166994 251 76 519 327
+dog-yorkshire_terrier 0.009181857 367 18 505 81
+dog-yorkshire_terrier 0.008667082 248 -21 578 100
+dog-yorkshire_terrier 0.008366346 326 -27 564 78

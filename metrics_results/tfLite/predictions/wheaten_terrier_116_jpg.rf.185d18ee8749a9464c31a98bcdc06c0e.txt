@@ -1,0 +1,10 @@
+dog-wheaten_terrier 0.18578237 199 79 342 258
+cat-Abyssinian 0.072025865 214 49 231 80
+cat-Egyptian_Mau 0.025271118 -2 36 32 118
+dog-yorkshire_terrier 0.024175406 242 -17 527 86
+dog-wheaten_terrier 0.017668575 97 151 148 173
+dog-wheaten_terrier 0.016681999 223 127 339 247
+dog-yorkshire_terrier 0.016049147 327 -28 559 84
+dog-yorkshire_terrier 0.012337774 203 -8 557 120
+dog-keeshond 0.009451598 254 49 569 383
+dog-yorkshire_terrier 0.009227991 93 -27 462 100

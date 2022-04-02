@@ -1,0 +1,10 @@
+cat-British_Shorthair 0.9559965 83 90 247 258
+dog-yorkshire_terrier 0.015947968 220 -16 525 78
+dog-yorkshire_terrier 0.015534759 326 -24 560 76
+cat-British_Shorthair 0.012706995 2 72 294 264
+dog-great_pyrenees 0.012407154 298 89 402 135
+dog-yorkshire_terrier 0.01226446 372 6 549 155
+dog-yorkshire_terrier 0.0120970905 311 -3 551 97
+cat-British_Shorthair 0.011656672 77 175 236 256
+dog-yorkshire_terrier 0.010154247 288 0 515 68
+dog-pug 0.009597778 72 80 482 269

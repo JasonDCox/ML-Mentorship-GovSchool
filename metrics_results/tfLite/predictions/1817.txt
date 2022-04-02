@@ -1,0 +1,10 @@
+dog-english_setter 0.61698335 314 347 525 521
+dog-great_pyrenees 0.04910457 331 352 471 508
+cat-Persian 0.03598824 -124 -171 640 653
+cat-Persian 0.029762238 49 -120 613 489
+cat-Egyptian_Mau 0.01872006 9 -1 177 130
+dog-shiba_inu 0.015393615 183 -2 326 70
+dog-great_pyrenees 0.012408674 20 -3 165 68
+dog-pomeranian 0.011864632 -10 -25 597 353
+dog-basset_hound 0.011805803 644 548 689 807
+dog-wheaten_terrier 0.009931207 70 -2 181 50

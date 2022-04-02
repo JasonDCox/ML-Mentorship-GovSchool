@@ -1,0 +1,10 @@
+dog-boxer 0.9106786 17 84 288 368
+dog-boxer 0.05588135 12 85 322 554
+dog-boxer 0.047659636 118 89 288 346
+dog-wheaten_terrier 0.011065304 117 84 174 110
+dog-staffordshire_bull_terrier 0.009736091 127 170 152 184
+cat-Maine_Coon 0.00866735 202 186 236 208
+dog-japanese_chin 0.0086557865 257 85 278 99
+dog-staffordshire_bull_terrier 0.008551955 124 164 154 183
+dog-staffordshire_bull_terrier 0.008529723 122 170 146 186
+dog-japanese_chin 0.008461028 252 83 273 99
