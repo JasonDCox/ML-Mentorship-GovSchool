@@ -1,6 +1,8 @@
 ## FPS (includes converting input array, running model, and turning output into usable dictionary list)
 Average: 3.695955 (includes first image out of the testing, which typically takes significantly longer)
 
+Average: 3.819889 (excludes first 5 pictures because that is when the model gets going)
+
 ## Memory usage
 program usage (tracemalloc): 1061 MB
 
