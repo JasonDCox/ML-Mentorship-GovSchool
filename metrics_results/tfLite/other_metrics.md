@@ -13,3 +13,6 @@ Jetson usage (tegrastats): 100% on one core
 
 ## GPU usage
 Jetson usage (tegrastats): 0%
+
+## Load time
+Pretty much instant (no extremely large library)
