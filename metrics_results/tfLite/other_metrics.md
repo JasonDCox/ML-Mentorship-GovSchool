@@ -2,7 +2,7 @@
 0.7798814
 
 ## Memory usage
-program usage (tracemalloc): 20 MB)
+program usage (tracemalloc): 20 MB (probably not true)
 
 Jetson usage (tegrastats): 836 MB RAM 73 MB Swap
 
