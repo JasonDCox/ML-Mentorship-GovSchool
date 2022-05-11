@@ -1,10 +1,14 @@
 # Desktop Operation
 ## Overview
+**This is not the complete folder for the desktop operation.** Instead, these are the files/folders that should be added to the TFODCourse folder, which is created in Nicholas Renotte's tutorial on Tensorflow object detection on the desktop (linked below). I have put timestamps for major steps in the video, but I seggust that you watch the entirity of the model creation process in his video, especially if you plan to use Tensorflow in the future. He does a great job explaining everything and makes an easy job of installing complicated things such as CUDA and CUDNN. As described in the installation section, I've added some features to his notebooks that address issues I ran into with imported dataset and add some more functionality for running detection tests. You should be able to follow allong with his tutorial using these files.
+
+Once you have created the models, you will export them to be run on the Jetson. After running the models on the Jetson (described in Jetson folder readme) and bringing their results back (ex: via a flash drive), you will accumulate all the specified files into the evaluation_stuff folder. Once everything is correctly in the folder, you can run thr evaluation software, created by Rafael Padilla, to evaluate the performance of each model and compare them.
+
 ## Installation
 1. All the installation for desktop Tensorflow is covered in Nicholas Renotte's tutorial (linked below)
     - I have provided the same notebook files he provides but with added features that:
         - address issues with formatting imported annotations
-        - addresses issues with images being rotated
+        - address issues with images being rotated
         - goes through all images and records all annotations for separate evaluation software
         - takes in a video and outputs the video with predictions overlayed 
     - To get these added features, replace his two notebook files with the matching ones provided in this github.
@@ -35,6 +39,9 @@
     4. Lastly, run the segments under Making a prediction video if you want to insert detections into a pre-filmed video
 6. Export the model
     1. Run the code segment under Freezing the Graph
+        1. This will create the export to be used for TensorRT
+    2. Run the code segment under Conversion to TFLite
+        1. This will create the export to be used for tfLite
 ### Evaluating results for models
 1. Everything will be done in the evaluation_stuff folder
 2. Copy the xml annotations from the test data into the annotations folder
@@ -75,5 +82,18 @@
     2. The program will fill the eval_results folder with pictures of each class's Precision vs Recall Curve, along with a graph of all of the classes together.
 21. This concludes the evaluation step. Now, if you kept the names of the models straight, you should have accurate and organized results.
 ## References
- - Nicholas Renotte's in depth [tutorial](https://www.youtube.com/watch?v=yqkISICHH-U)
+ - Nicholas Renotte's in-depth [tutorial](https://www.youtube.com/watch?v=yqkISICHH-U)
+    - Time stamps:
+    - a
+    - a
+    - a
+    - a
+    - a
+    - a
+    - a
+    - a
+    - a
+    - a
+    - a
+    - a
  - Rafael Padilla's evaluation [software](https://github.com/rafaelpadilla/review_object_detection_metrics)
