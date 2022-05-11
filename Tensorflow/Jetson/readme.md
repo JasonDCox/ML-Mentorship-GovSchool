@@ -9,7 +9,7 @@ It is important to note that **the TensorRT script uses TF-TRT,** which is a met
 ## Installation
 1. I recommend installing the Jetson Stats application to help turn on the fan, monitor multiple system usage stats, and look at the versions of the OS, TensorRT, CUDA, and CUDNN. This installation instructions are in their github, which is linked below.
 2. The Installation for tfLite is simple and covered in Nicholas Renotte's video. His RasberryPi code github is linked below and contains a list of the required modules.
-3. To install tensorflow, flow the instructions from NVIDIA, which are linked below.
+3. To install tensorflow, follow the instructions from NVIDIA, which are linked below.
 4. If you keep having issues with TensorRT wanting to use a "libnvinfer" that does not exist, try reinstalling TensorRT using NVIDIA's instructions that are linked below.
 ## Layout
 ## Steps
