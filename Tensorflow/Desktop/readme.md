@@ -3,8 +3,8 @@
 ## Steps
 ### Creating, training, and exporting a model
 1. Create/import image dataset with PASCAL VOC annotations.
-  - creating/annotating custom images is covered in Nicholas Renotte's tutorial
-  - there are custom code segments to help ensure imported annotations are in the correct order/format (it is very specific)
+    1. creating/annotating custom images is covered in Nicholas Renotte's tutorial
+    2. there are custom code segments to help ensure imported annotations are in the correct order/format (it is very specific)
 2. Create label map, tfrecords, and update the config file
   - change the label's array to match the exact names of your model's classes
   - there are code segments for all of these and Nicholas Renotte's video covers them in depth
