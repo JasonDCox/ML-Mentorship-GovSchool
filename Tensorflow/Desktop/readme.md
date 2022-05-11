@@ -31,7 +31,8 @@
     1. First run the segments under Load Train Model From Checkpoint
         1. You must update checkpoint number to be the latest in the folder
     2. Next run the segments under the Detect from all Test Images to run through all the images and log the detections for evaluation
-    3. Lastly, run the segments under Making a prediction video if you want to insert detections into a pre-filmed video
+        1. Define the save_folder variable with the name of the folder you want to save the resulting images in.
+    4. Lastly, run the segments under Making a prediction video if you want to insert detections into a pre-filmed video
 6. Export the model
     1. Run the code segment under Freezing the Graph
 ### Evaluating results for models
