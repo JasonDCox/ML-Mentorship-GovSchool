@@ -1,0 +1,10 @@
+dog-american_pit_bull_terrier 0.81366616 6 3 343 433
+bella 0.009516925 2 321 21 436
+dog-wheaten_terrier 0.0075473785 234 1 260 13
+dog-saint_bernard 0.007137716 90 337 128 374
+dog-miniature_pinscher 0.007131666 236 6 360 86
+cat-Siamese 0.006774187 3 0 85 73
+cat-Bombay 0.0067287087 87 -1 194 36
+dog-pomeranian 0.006472945 224 197 292 242
+bella 0.0063400567 2 288 21 406
+dog-staffordshire_bull_terrier 0.0061069727 260 169 283 190

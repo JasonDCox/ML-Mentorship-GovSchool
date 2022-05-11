@@ -1,0 +1,10 @@
+dog-yorkshire_terrier 0.98249805 165 4 398 243
+bella 0.017476648 2 229 118 383
+cat-Siamese 0.0117865205 -5 -2 176 60
+dog-yorkshire_terrier 0.010745853 -80 -12 393 256
+dog-scottish_terrier 0.010660648 169 8 395 135
+cat-Bombay 0.009996593 432 2 503 38
+dog-american_bulldog 0.009429395 293 120 323 138
+bella 0.0082497 4 215 80 360
+cat-Ragdoll 0.007128328 121 2 196 25
+dog-yorkshire_terrier 0.0070753396 78 4 236 59

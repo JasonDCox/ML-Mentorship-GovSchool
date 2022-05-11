@@ -1,0 +1,10 @@
+dog-wheaten_terrier 0.9610548 47 56 208 205
+dog-wheaten_terrier 0.068306 -26 49 201 221
+dog-havanese 0.036987305 31 28 582 248
+dog-havanese 0.016697884 109 -49 638 181
+cat-Maine_Coon 0.015092671 126 0 244 34
+dog-japanese_chin 0.0136809945 1 165 32 233
+dog-wheaten_terrier 0.012721986 24 59 182 295
+cat-Abyssinian 0.0115327835 39 47 341 378
+cat-Persian 0.011025339 224 -15 527 87
+dog-english_cocker_spaniel 0.008802623 -4 222 32 304

@@ -1,0 +1,10 @@
+cat-Bombay 0.9734251 170 12 249 89
+dog-beagle 0.022809386 -51 9 290 254
+dog-american_pit_bull_terrier 0.014308184 151 20 342 239
+cat-Egyptian_Mau 0.013089031 182 0 202 10
+cat-Russian_Blue 0.009895831 167 17 247 128
+dog-staffordshire_bull_terrier 0.008080989 34 17 282 201
+dog-american_bulldog 0.007863373 150 166 179 183
+bella 0.007576108 1 92 25 148
+dog-basset_hound 0.006913483 48 217 103 263
+cat-Egyptian_Mau 0.0068201423 291 0 311 61

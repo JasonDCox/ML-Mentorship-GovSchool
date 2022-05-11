@@ -1,0 +1,10 @@
+dog-boxer 0.28656065 127 122 318 282
+dog-pug 0.039099365 107 54 345 273
+dog-american_pit_bull_terrier 0.029227287 0 174 79 361
+dog-boxer 0.025437295 130 147 236 278
+cat-Egyptian_Mau 0.02239284 3 -4 138 40
+dog-pomeranian 0.02005449 60 -16 466 130
+cat-Maine_Coon 0.017911613 2 0 99 51
+dog-english_cocker_spaniel 0.014132947 462 91 498 202
+dog-samoyed 0.014015675 7 291 267 371
+cat-Egyptian_Mau 0.012550563 -1 2 86 36

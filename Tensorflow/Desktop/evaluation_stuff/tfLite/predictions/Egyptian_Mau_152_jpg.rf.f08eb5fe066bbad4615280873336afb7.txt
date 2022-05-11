@@ -1,0 +1,10 @@
+cat-Egyptian_Mau 0.95081407 162 1 340 184
+cat-Bengal 0.024299622 -3 104 28 185
+cat-British_Shorthair 0.017026931 -79 -2 368 217
+dog-american_bulldog 0.015331864 159 -1 537 222
+cat-British_Shorthair 0.014241219 -119 -49 328 161
+cat-Bombay 0.008098394 50 0 159 27
+bella 0.0077696145 447 54 477 136
+cat-Bengal 0.0075344145 -3 86 30 160
+dog-english_setter 0.006847203 2 2 65 84
+cat-Siamese 0.006575972 103 1 189 26

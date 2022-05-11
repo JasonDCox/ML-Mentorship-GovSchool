@@ -1,0 +1,10 @@
+dog-japanese_chin 0.63633037 26 2 305 163
+dog-japanese_chin 0.063472986 12 24 345 291
+dog-basset_hound 0.0500772 1 2 354 522
+dog-staffordshire_bull_terrier 0.019423306 161 82 185 108
+dog-staffordshire_bull_terrier 0.015380621 139 82 162 107
+dog-pomeranian 0.014786363 119 5 287 166
+cat-Russian_Blue 0.012911618 -1 163 20 268
+dog-staffordshire_bull_terrier 0.011134267 144 75 166 102
+dog-pomeranian 0.0101671815 11 -5 226 132
+dog-staffordshire_bull_terrier 0.010080904 135 75 158 103

@@ -1,0 +1,10 @@
+dog-pomeranian 0.98323447 101 75 179 177
+dog-pomeranian 0.018818885 104 113 171 173
+dog-american_pit_bull_terrier 0.013113409 -3 -4 67 47
+dog-english_setter 0.008737981 0 35 32 145
+dog-leonberger 0.008077234 6 1 65 39
+dog-yorkshire_terrier 0.007936448 4 -5 92 35
+cat-Abyssinian 0.0073772073 30 159 37 177
+bella 0.007210672 1 181 13 241
+dog-newfoundland 0.0070965886 2 62 29 165
+cat-Persian 0.006546229 54 0 73 7

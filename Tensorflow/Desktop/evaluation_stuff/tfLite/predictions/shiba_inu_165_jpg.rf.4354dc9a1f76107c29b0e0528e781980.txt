@@ -1,0 +1,10 @@
+dog-shiba_inu 0.97667754 70 42 263 278
+dog-shiba_inu 0.024099648 -35 13 267 303
+dog-shiba_inu 0.015802622 91 4 351 294
+cat-Siamese 0.015183836 3 -1 96 71
+dog-english_cocker_spaniel 0.013712347 308 216 332 349
+bella 0.012865722 2 280 68 520
+dog-japanese_chin 0.0109215975 173 273 207 292
+dog-english_cocker_spaniel 0.010617822 307 288 333 423
+dog-english_cocker_spaniel 0.010319203 308 252 332 384
+dog-english_cocker_spaniel 0.009005398 309 118 332 249

@@ -1,0 +1,10 @@
+dog-american_pit_bull_terrier 0.8717135 172 59 340 272
+bella 0.012877077 1 212 37 271
+dog-american_pit_bull_terrier 0.012867719 -34 -45 368 293
+dog-american_pit_bull_terrier 0.012260854 152 36 418 279
+dog-chihuahua 0.011959642 145 -19 608 292
+dog-american_bulldog 0.011287361 42 40 338 280
+dog-pomeranian 0.009721607 97 -27 383 263
+dog-leonberger 0.008518636 2 184 35 240
+dog-miniature_pinscher 0.008055121 -11 0 228 66
+dog-american_pit_bull_terrier 0.007817119 -43 53 343 383

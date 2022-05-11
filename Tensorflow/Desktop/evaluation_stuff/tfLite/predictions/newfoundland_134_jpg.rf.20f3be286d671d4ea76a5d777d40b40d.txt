@@ -1,0 +1,10 @@
+dog-leonberger 0.63890135 211 94 336 227
+cat-Maine_Coon 0.01787731 175 -3 438 60
+cat-Maine_Coon 0.015262783 133 -1 379 83
+dog-leonberger 0.010781288 393 0 434 10
+dog-samoyed 0.008998007 106 -46 436 149
+dog-beagle 0.008994788 0 -5 146 37
+dog-english_cocker_spaniel 0.007840633 -4 26 321 161
+dog-wheaten_terrier 0.007207006 -82 13 357 250
+dog-english_cocker_spaniel 0.007158339 410 226 508 383
+cat-Egyptian_Mau 0.007116765 463 68 500 163

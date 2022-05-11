@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>chihuahua_14_jpg.rf.a81475719cea2cae1d958e7faf4e9dd9.jpg</filename>
+	<path>chihuahua_14_jpg.rf.a81475719cea2cae1d958e7faf4e9dd9.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>492</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-chihuahua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>17</ymin>
+			<xmax>433</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,10 @@
+cat-British_Shorthair 0.973601 218 -1 362 125
+dog-staffordshire_bull_terrier 0.01642713 191 301 223 313
+dog-leonberger 0.011580378 123 119 164 157
+dog-american_pit_bull_terrier 0.011544794 -16 0 196 50
+dog-staffordshire_bull_terrier 0.011500418 161 263 190 272
+dog-staffordshire_bull_terrier 0.010515571 185 297 217 309
+cat-Abyssinian 0.010436982 195 0 213 21
+cat-Siamese 0.009588599 108 95 173 116
+dog-leonberger 0.008313239 211 142 248 181
+cat-Egyptian_Mau 0.008209258 472 177 502 237

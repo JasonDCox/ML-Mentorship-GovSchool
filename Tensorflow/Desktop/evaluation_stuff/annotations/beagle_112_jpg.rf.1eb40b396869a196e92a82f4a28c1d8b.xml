@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>beagle_112_jpg.rf.1eb40b396869a196e92a82f4a28c1d8b.jpg</filename>
+	<path>beagle_112_jpg.rf.1eb40b396869a196e92a82f4a28c1d8b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-beagle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>227</ymin>
+			<xmax>232</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

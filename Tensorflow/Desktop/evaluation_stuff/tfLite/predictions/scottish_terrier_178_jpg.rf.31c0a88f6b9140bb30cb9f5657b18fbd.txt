@@ -1,0 +1,10 @@
+dog-scottish_terrier 0.48219922 142 128 352 329
+dog-scottish_terrier 0.11184704 126 62 383 322
+dog-scottish_terrier 0.05521527 157 143 280 285
+dog-miniature_pinscher 0.012107402 224 -4 358 34
+dog-miniature_pinscher 0.010598451 -79 118 366 333
+dog-miniature_pinscher 0.010099411 226 2 360 49
+dog-leonberger 0.008538574 106 64 141 104
+dog-english_cocker_spaniel 0.0077855885 461 200 500 292
+dog-scottish_terrier 0.007399082 168 115 543 333
+dog-yorkshire_terrier 0.0072010756 377 23 540 207

@@ -1,0 +1,10 @@
+dog-basset_hound 0.4335348 6 26 310 324
+cat-Egyptian_Mau 0.042180926 2 161 151 336
+dog-newfoundland 0.029088408 103 47 309 294
+dog-yorkshire_terrier 0.017701447 314 0 512 68
+dog-leonberger 0.01767224 106 46 136 102
+dog-yorkshire_terrier 0.016163617 333 -25 560 76
+dog-yorkshire_terrier 0.01470378 241 -15 530 77
+dog-basset_hound 0.012203306 -132 39 303 432
+cat-Siamese 0.011962831 7 0 99 49
+dog-yorkshire_terrier 0.011571169 361 5 550 149

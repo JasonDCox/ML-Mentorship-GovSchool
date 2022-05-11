@@ -1,0 +1,10 @@
+dog-staffordshire_bull_terrier 0.97759116 147 65 426 248
+dog-staffordshire_bull_terrier 0.055479497 163 59 509 286
+cat-Persian 0.028247386 431 1 495 27
+dog-staffordshire_bull_terrier 0.026052266 152 80 491 432
+cat-Persian 0.020595789 439 0 499 21
+cat-Russian_Blue 0.018531978 83 -1 219 26
+dog-english_setter 0.015236914 360 86 434 155
+cat-Persian 0.014741838 456 0 500 70
+cat-Persian 0.014063597 446 1 496 35
+cat-Persian 0.012985706 411 0 487 19

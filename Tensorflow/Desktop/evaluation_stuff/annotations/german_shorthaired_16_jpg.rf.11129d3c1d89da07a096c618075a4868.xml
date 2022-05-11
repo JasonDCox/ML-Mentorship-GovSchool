@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>german_shorthaired_16_jpg.rf.11129d3c1d89da07a096c618075a4868.jpg</filename>
+	<path>german_shorthaired_16_jpg.rf.11129d3c1d89da07a096c618075a4868.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-german_shorthaired</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>98</ymin>
+			<xmax>226</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

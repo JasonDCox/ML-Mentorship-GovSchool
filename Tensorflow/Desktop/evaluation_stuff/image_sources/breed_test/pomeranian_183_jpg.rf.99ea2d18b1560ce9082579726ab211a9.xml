@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>pomeranian_183_jpg.rf.99ea2d18b1560ce9082579726ab211a9.jpg</filename>
+	<path>pomeranian_183_jpg.rf.99ea2d18b1560ce9082579726ab211a9.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-pomeranian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>60</ymin>
+			<xmax>190</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,10 @@
+dog-samoyed 0.9218774 134 0 351 305
+dog-american_pit_bull_terrier 0.030612051 433 126 521 246
+cat-Ragdoll 0.01694557 97 1 173 22
+dog-american_pit_bull_terrier 0.014968902 440 153 521 275
+dog-english_cocker_spaniel 0.013018727 463 200 498 296
+cat-Birman 0.010013193 280 1 315 8
+dog-english_setter 0.009720504 416 98 506 224
+cat-Ragdoll 0.008583695 -54 -4 352 263
+cat-Bombay 0.008563995 26 5 201 50
+cat-Ragdoll 0.00816524 122 2 188 22

@@ -1,0 +1,10 @@
+dog-american_pit_bull_terrier 0.7056236 128 185 253 283
+dog-american_pit_bull_terrier 0.015178114 75 170 244 293
+dog-japanese_chin 0.010586172 69 20 369 308
+cat-Siamese 0.009892523 13 -6 110 53
+dog-pomeranian 0.007498294 92 -21 286 295
+cat-Persian 0.007208556 93 307 125 329
+dog-great_pyrenees 0.006539136 95 -81 400 258
+cat-Egyptian_Mau 0.0053450167 1 345 82 502
+cat-Egyptian_Mau 0.0052788556 183 359 230 390
+dog-american_pit_bull_terrier 0.005215168 10 161 229 304

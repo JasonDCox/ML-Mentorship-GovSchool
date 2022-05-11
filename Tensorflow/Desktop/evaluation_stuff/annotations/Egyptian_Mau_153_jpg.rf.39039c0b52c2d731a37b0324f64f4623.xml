@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>Egyptian_Mau_153_jpg.rf.39039c0b52c2d731a37b0324f64f4623.jpg</filename>
+	<path>Egyptian_Mau_153_jpg.rf.39039c0b52c2d731a37b0324f64f4623.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>332</width>
+		<height>317</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat-Egyptian_Mau</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>110</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>

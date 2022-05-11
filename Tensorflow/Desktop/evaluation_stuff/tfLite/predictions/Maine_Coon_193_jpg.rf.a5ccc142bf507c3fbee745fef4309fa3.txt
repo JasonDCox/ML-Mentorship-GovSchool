@@ -1,0 +1,10 @@
+cat-Maine_Coon 0.9625676 222 7 385 209
+cat-Bengal 0.021733344 -77 -5 391 220
+dog-yorkshire_terrier 0.013873428 88 3 263 51
+dog-staffordshire_bull_terrier 0.012369037 246 306 281 318
+cat-Maine_Coon 0.011116028 211 -3 519 210
+cat-Abyssinian 0.009942234 384 0 471 19
+dog-yorkshire_terrier 0.009526789 -5 -13 294 82
+cat-Egyptian_Mau 0.009238362 -1 270 96 335
+dog-basset_hound 0.008918762 467 193 499 283
+cat-Egyptian_Mau 0.008673608 472 88 500 144

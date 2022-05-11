@@ -1,0 +1,10 @@
+dog-english_setter 0.83921164 157 112 268 229
+cat-Russian_Blue 0.027826667 95 0 239 28
+dog-yorkshire_terrier 0.012578696 377 2 511 50
+dog-yorkshire_terrier 0.011787742 381 6 547 179
+dog-yorkshire_terrier 0.0085838735 238 -11 511 83
+dog-american_pit_bull_terrier 0.007956773 -18 79 69 196
+dog-yorkshire_terrier 0.007920027 380 -32 549 116
+cat-Bombay 0.007911503 76 0 196 26
+cat-Abyssinian 0.0074308515 61 62 80 81
+cat-Bengal 0.007041037 348 0 428 18

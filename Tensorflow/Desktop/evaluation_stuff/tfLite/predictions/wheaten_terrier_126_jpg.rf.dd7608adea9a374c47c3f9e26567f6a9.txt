@@ -1,0 +1,10 @@
+cat-Bengal 0.018897176 462 -1 502 54
+cat-Bengal 0.01800394 8 -1 208 48
+cat-Egyptian_Mau 0.014428705 0 17 42 80
+dog-american_bulldog 0.012884945 256 53 307 74
+cat-Egyptian_Mau 0.012637019 -3 6 33 75
+dog-wheaten_terrier 0.010359675 96 180 245 337
+cat-Persian 0.010337323 0 -1 42 62
+cat-Bombay 0.0100030005 442 0 480 8
+dog-boxer 0.009839892 96 22 457 184
+cat-Bengal 0.009199858 16 -3 168 38

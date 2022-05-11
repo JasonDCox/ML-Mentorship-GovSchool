@@ -1,0 +1,10 @@
+cat-Persian 0.99722457 113 82 406 361
+cat-Persian 0.024971992 -78 44 411 424
+bella 0.01736918 2 204 31 304
+cat-Egyptian_Mau 0.016191036 -3 228 31 340
+dog-staffordshire_bull_terrier 0.013887703 258 164 292 187
+dog-staffordshire_bull_terrier 0.009069204 240 159 271 178
+cat-Persian 0.008265793 47 72 432 558
+dog-yorkshire_terrier 0.008264899 121 76 242 304
+dog-staffordshire_bull_terrier 0.0078600645 252 159 286 180
+dog-leonberger 0.007835031 465 427 498 498

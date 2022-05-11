@@ -1,0 +1,10 @@
+dog-basset_hound 0.8874384 121 16 375 361
+dog-pomeranian 0.021967053 -7 0 164 58
+dog-basset_hound 0.020451725 118 12 547 366
+dog-german_shorthaired 0.01853785 127 25 341 262
+dog-basset_hound 0.016663074 -75 -1 373 387
+dog-english_setter 0.01061967 194 113 255 184
+cat-Persian 0.010297209 -9 320 128 376
+dog-basset_hound 0.007997394 60 29 300 328
+cat-Persian 0.0077801943 449 0 499 82
+cat-Persian 0.0071698427 245 1 315 14

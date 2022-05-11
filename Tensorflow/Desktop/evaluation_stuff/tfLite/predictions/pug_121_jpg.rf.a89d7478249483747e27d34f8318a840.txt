@@ -1,0 +1,10 @@
+dog-pug 0.3994704 66 0 291 196
+dog-boxer 0.03371182 250 32 291 103
+dog-newfoundland 0.017732173 184 16 286 142
+dog-american_bulldog 0.012273282 217 14 245 22
+dog-american_pit_bull_terrier 0.010386884 103 -49 356 168
+dog-great_pyrenees 0.009359777 162 22 197 33
+dog-english_setter 0.007977486 101 106 131 137
+cat-Abyssinian 0.007706821 290 43 299 60
+dog-leonberger 0.0074282587 -1 133 18 182
+cat-Maine_Coon 0.0070658326 32 0 63 9

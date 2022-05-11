@@ -1,0 +1,10 @@
+dog-pomeranian 0.94277483 67 74 192 187
+dog-pomeranian 0.20461726 52 23 194 190
+dog-yorkshire_terrier 0.034015775 232 18 319 136
+dog-american_pit_bull_terrier 0.016711175 245 73 302 156
+dog-pomeranian 0.014117777 30 -26 249 198
+dog-pomeranian 0.012474865 -21 14 185 199
+dog-pomeranian 0.0121105015 66 131 177 188
+bella 0.011255056 2 91 22 141
+dog-american_pit_bull_terrier 0.009626389 245 91 303 195
+dog-yorkshire_terrier 0.009202212 247 37 300 137

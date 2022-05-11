@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>american_bulldog_200_jpg.rf.59376cb47c650dbe72573a44b73ad411.jpg</filename>
+	<path>american_bulldog_200_jpg.rf.59376cb47c650dbe72573a44b73ad411.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>319</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-american_bulldog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>9</ymin>
+			<xmax>353</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+</annotation>

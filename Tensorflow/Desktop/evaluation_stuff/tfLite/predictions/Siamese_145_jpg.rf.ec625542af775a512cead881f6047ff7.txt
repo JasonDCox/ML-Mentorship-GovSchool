@@ -1,0 +1,10 @@
+cat-British_Shorthair 0.74458855 144 44 369 259
+dog-miniature_pinscher 0.025722295 1 144 69 278
+cat-Ragdoll 0.012663394 161 9 540 257
+cat-Bengal 0.0125750005 -3 157 34 236
+cat-Bengal 0.012557864 2 155 43 250
+dog-scottish_terrier 0.011148423 142 50 361 175
+dog-german_shorthaired 0.011099964 285 43 366 132
+cat-British_Shorthair 0.010647446 -84 49 385 312
+cat-Bengal 0.010338008 150 40 196 124
+cat-Egyptian_Mau 0.009354889 473 211 501 275

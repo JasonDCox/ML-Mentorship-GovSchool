@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>samoyed_100_jpg.rf.e30772b0bbeea1692aef33c667989368.jpg</filename>
+	<path>samoyed_100_jpg.rf.e30772b0bbeea1692aef33c667989368.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-samoyed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>1</ymin>
+			<xmax>344</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,10 @@
+dog-boxer 0.76912856 14 82 265 312
+cat-British_Shorthair 0.021247089 0 405 62 503
+dog-havanese 0.010525584 167 300 197 315
+dog-staffordshire_bull_terrier 0.008708537 108 206 131 231
+cat-Siamese 0.008434355 54 8 353 318
+dog-newfoundland 0.008237898 189 86 259 244
+dog-japanese_chin 0.007813454 237 94 263 136
+dog-staffordshire_bull_terrier 0.0071960986 -9 2 249 292
+bella 0.006146997 88 198 119 229
+cat-Bombay 0.0054074824 134 -1 235 40

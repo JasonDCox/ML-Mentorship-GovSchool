@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>leonberger_112_jpg.rf.fe221a67a84b04debc4b5d7ce0555784.jpg</filename>
+	<path>leonberger_112_jpg.rf.fe221a67a84b04debc4b5d7ce0555784.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-leonberger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>28</ymin>
+			<xmax>420</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

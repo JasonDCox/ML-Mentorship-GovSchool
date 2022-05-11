@@ -1,0 +1,10 @@
+cat-British_Shorthair 0.88283986 115 16 396 282
+cat-Bombay 0.024121612 17 0 151 28
+cat-British_Shorthair 0.017287761 -76 11 407 333
+cat-Persian 0.016105115 461 0 499 84
+dog-shiba_inu 0.010990173 244 19 292 37
+cat-Siamese 0.008876294 359 -5 499 41
+dog-yorkshire_terrier 0.008764982 68 -3 196 44
+cat-British_Shorthair 0.0086505115 64 5 422 418
+cat-British_Shorthair 0.0075162947 146 35 514 298
+dog-yorkshire_terrier 0.0074403286 35 6 195 54

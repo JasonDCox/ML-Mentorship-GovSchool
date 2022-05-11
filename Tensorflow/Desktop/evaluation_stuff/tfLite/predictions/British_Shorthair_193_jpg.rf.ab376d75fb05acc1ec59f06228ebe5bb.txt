@@ -1,0 +1,10 @@
+cat-British_Shorthair 0.9892787 192 67 400 265
+cat-British_Shorthair 0.015760064 -80 51 406 283
+dog-american_pit_bull_terrier 0.012521148 0 22 93 174
+cat-Bombay 0.011088401 0 0 35 11
+dog-miniature_pinscher 0.01031062 -5 0 157 50
+cat-Persian 0.009368032 294 240 351 257
+cat-Abyssinian 0.008972347 482 0 499 28
+dog-keeshond 0.0071541965 196 74 395 191
+dog-basset_hound 0.0062221587 462 187 499 284
+cat-British_Shorthair 0.0058262944 190 179 357 261

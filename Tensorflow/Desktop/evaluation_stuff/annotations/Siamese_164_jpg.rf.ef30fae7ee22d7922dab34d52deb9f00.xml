@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>Siamese_164_jpg.rf.ef30fae7ee22d7922dab34d52deb9f00.jpg</filename>
+	<path>Siamese_164_jpg.rf.ef30fae7ee22d7922dab34d52deb9f00.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat-Siamese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>92</ymin>
+			<xmax>316</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

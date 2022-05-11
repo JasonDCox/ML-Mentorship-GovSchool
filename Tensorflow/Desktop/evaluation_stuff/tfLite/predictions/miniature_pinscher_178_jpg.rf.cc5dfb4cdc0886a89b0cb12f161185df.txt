@@ -1,0 +1,10 @@
+dog-miniature_pinscher 0.9095894 61 -1 226 205
+dog-english_setter 0.14280319 47 0 122 99
+dog-miniature_pinscher 0.02999416 73 27 124 159
+dog-miniature_pinscher 0.029448599 78 -7 323 226
+dog-miniature_pinscher 0.027541846 -41 3 234 207
+cat-Bengal 0.011888564 -3 79 18 123
+dog-basset_hound 0.010792762 0 160 27 225
+cat-Bengal 0.009079397 57 2 216 105
+cat-Birman 0.008783549 54 0 79 5
+cat-Birman 0.0075568855 61 0 86 5

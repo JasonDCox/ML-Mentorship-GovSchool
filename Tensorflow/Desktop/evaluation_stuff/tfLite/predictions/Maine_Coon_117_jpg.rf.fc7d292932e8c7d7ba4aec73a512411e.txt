@@ -1,0 +1,10 @@
+cat-Maine_Coon 0.97287434 215 106 308 207
+dog-yorkshire_terrier 0.011836141 330 -28 559 89
+cat-Egyptian_Mau 0.010513663 381 274 434 296
+cat-Siamese 0.010230273 3 -3 145 42
+cat-Egyptian_Mau 0.009726912 393 266 447 286
+dog-yorkshire_terrier 0.009557337 252 -21 574 106
+dog-english_cocker_spaniel 0.008943707 463 163 499 255
+dog-yorkshire_terrier 0.008941561 296 1 520 83
+dog-samoyed 0.00733456 223 109 303 160
+cat-Maine_Coon 0.006780416 218 147 305 210

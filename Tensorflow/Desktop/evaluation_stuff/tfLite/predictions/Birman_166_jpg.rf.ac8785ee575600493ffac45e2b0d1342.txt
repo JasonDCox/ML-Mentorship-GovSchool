@@ -1,0 +1,10 @@
+cat-Birman 0.9587321 184 38 309 164
+cat-Birman 0.010991186 193 105 309 161
+dog-yorkshire_terrier 0.009906858 344 -29 553 91
+dog-american_bulldog 0.0086790025 -67 5 378 353
+cat-Bombay 0.008307695 114 0 202 22
+dog-yorkshire_terrier 0.007864624 314 0 513 65
+dog-great_pyrenees 0.007550776 230 184 278 241
+dog-leonberger 0.0069461167 -2 153 30 223
+dog-yorkshire_terrier 0.00686568 305 3 555 106
+cat-Bombay 0.006685376 102 0 185 18

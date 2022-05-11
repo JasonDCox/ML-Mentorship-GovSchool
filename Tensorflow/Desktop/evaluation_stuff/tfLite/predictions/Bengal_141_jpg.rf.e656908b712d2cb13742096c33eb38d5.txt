@@ -1,0 +1,10 @@
+dog-chihuahua 0.039110214 221 0 304 200
+cat-Bombay 0.0326446 179 0 262 21
+dog-chihuahua 0.01603055 236 -1 314 155
+dog-american_pit_bull_terrier 0.014681697 224 37 325 235
+cat-Egyptian_Mau 0.01422137 0 151 80 269
+dog-wheaten_terrier 0.012938976 247 0 300 79
+cat-Egyptian_Mau 0.01201728 230 67 252 79
+dog-keeshond 0.011816204 140 37 311 274
+cat-Bengal 0.011145979 -58 42 281 292
+cat-Siamese 0.01074174 291 2 300 20

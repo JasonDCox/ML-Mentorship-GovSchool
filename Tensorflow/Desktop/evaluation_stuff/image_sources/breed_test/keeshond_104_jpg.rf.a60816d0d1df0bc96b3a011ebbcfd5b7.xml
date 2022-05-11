@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>keeshond_104_jpg.rf.a60816d0d1df0bc96b3a011ebbcfd5b7.jpg</filename>
+	<path>keeshond_104_jpg.rf.a60816d0d1df0bc96b3a011ebbcfd5b7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-keeshond</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>82</ymin>
+			<xmax>291</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

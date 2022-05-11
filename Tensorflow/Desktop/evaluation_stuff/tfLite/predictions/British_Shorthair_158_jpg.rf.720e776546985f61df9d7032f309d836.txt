@@ -1,0 +1,10 @@
+cat-British_Shorthair 0.9853171 159 48 353 237
+cat-British_Shorthair 0.017088592 172 146 326 231
+cat-British_Shorthair 0.014538407 -69 50 379 269
+cat-British_Shorthair 0.01321438 166 55 547 278
+dog-leonberger 0.007942915 -1 128 31 199
+dog-keeshond 0.0077224076 -8 284 112 333
+dog-great_pyrenees 0.0073007047 160 45 236 66
+dog-american_pit_bull_terrier 0.007154852 167 37 249 59
+dog-havanese 0.0071130097 258 48 345 137
+cat-Birman 0.006784022 14 -4 168 34

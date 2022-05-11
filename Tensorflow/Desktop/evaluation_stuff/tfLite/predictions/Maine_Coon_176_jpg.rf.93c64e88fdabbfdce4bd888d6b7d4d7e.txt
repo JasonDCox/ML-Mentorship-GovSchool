@@ -1,0 +1,10 @@
+cat-Maine_Coon 0.598743 13 1 238 256
+cat-Persian 0.017621368 -63 -53 234 228
+dog-great_pyrenees 0.017169029 65 268 113 293
+dog-great_pyrenees 0.013604879 81 268 130 294
+cat-Persian 0.01283288 30 13 285 331
+cat-Persian 0.012242377 50 -25 359 235
+dog-japanese_chin 0.009006888 55 270 94 293
+cat-Birman 0.008824259 219 -5 357 54
+dog-english_cocker_spaniel 0.008758903 -5 284 55 483
+cat-Ragdoll 0.008458853 25 52 115 227

@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>english_setter_105_jpg.rf.d7c3d7e3c306d1f459b8a0ba330b591a.jpg</filename>
+	<path>english_setter_105_jpg.rf.d7c3d7e3c306d1f459b8a0ba330b591a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-english_setter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>21</ymin>
+			<xmax>357</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

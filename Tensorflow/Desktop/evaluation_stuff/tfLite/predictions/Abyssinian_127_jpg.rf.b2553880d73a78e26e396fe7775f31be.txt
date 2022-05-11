@@ -1,0 +1,10 @@
+cat-Abyssinian 0.91084766 96 244 183 325
+dog-american_bulldog 0.017119646 -51 15 230 353
+cat-Russian_Blue 0.0151770115 97 236 204 344
+dog-english_cocker_spaniel 0.014797509 245 57 265 174
+cat-Bengal 0.010045499 49 229 180 351
+cat-Egyptian_Mau 0.0073494017 251 240 266 314
+dog-american_pit_bull_terrier 0.0070925057 19 1 324 289
+dog-havanese 0.0066201687 87 92 199 342
+dog-american_pit_bull_terrier 0.0061017275 53 -66 343 219
+dog-english_cocker_spaniel 0.005992323 245 86 265 203

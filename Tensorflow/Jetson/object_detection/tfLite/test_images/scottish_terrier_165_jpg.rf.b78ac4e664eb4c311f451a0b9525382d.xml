@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>scottish_terrier_165_jpg.rf.b78ac4e664eb4c311f451a0b9525382d.jpg</filename>
+	<path>scottish_terrier_165_jpg.rf.b78ac4e664eb4c311f451a0b9525382d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-scottish_terrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>27</ymin>
+			<xmax>300</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

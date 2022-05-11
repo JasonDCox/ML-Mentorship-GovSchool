@@ -1,0 +1,10 @@
+dog-english_cocker_spaniel 0.40130293 114 103 297 272
+dog-english_cocker_spaniel 0.06247428 116 31 400 300
+cat-Egyptian_Mau 0.028753638 48 0 129 70
+cat-Egyptian_Mau 0.015610486 49 0 114 47
+dog-english_cocker_spaniel 0.0148331225 97 87 333 318
+dog-basset_hound 0.014231324 347 341 374 483
+dog-english_setter 0.009632409 112 105 220 253
+cat-Egyptian_Mau 0.009628624 1 313 23 375
+cat-Bengal 0.00944972 -55 18 323 313
+bella 0.009392381 351 313 372 414

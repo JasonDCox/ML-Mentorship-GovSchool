@@ -1,0 +1,10 @@
+cat-Birman 0.9420658 221 9 402 227
+dog-pomeranian 0.01945883 7 -2 137 73
+cat-Birman 0.012984246 208 0 508 222
+dog-yorkshire_terrier 0.012963295 0 -15 280 80
+cat-Ragdoll 0.012110561 207 1 270 24
+cat-Birman 0.01182431 209 140 381 218
+cat-Birman 0.011336118 11 -3 175 38
+dog-american_bulldog 0.01058507 -126 -23 402 259
+dog-yorkshire_terrier 0.010227323 111 3 295 52
+cat-Persian 0.010001421 48 9 404 238

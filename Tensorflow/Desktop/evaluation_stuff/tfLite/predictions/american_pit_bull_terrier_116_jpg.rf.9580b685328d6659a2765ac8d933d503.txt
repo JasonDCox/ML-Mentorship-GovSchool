@@ -1,0 +1,10 @@
+dog-german_shorthaired 0.42298558 130 62 192 107
+dog-american_pit_bull_terrier 0.1299063 122 27 299 202
+dog-boxer 0.06206295 126 64 190 134
+dog-american_pit_bull_terrier 0.050356 119 -16 361 195
+dog-boxer 0.040423244 129 64 151 95
+dog-boxer 0.020560503 130 62 199 159
+dog-american_pit_bull_terrier 0.014161468 128 45 367 254
+cat-Siamese 0.012842536 171 -2 253 20
+dog-german_shorthaired 0.011269778 169 63 192 90
+dog-american_pit_bull_terrier 0.008941263 151 -49 354 153

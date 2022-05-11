@@ -1,0 +1,10 @@
+dog-basset_hound 0.93922794 143 -1 398 315
+dog-basset_hound 0.059599638 159 -6 531 336
+dog-basset_hound 0.022901148 78 77 373 324
+dog-english_cocker_spaniel 0.011315137 158 22 385 232
+dog-saint_bernard 0.010888696 1 127 48 201
+dog-japanese_chin 0.008721173 26 57 44 90
+dog-japanese_chin 0.0077810884 20 57 38 90
+dog-basset_hound 0.007304132 -99 10 394 309
+dog-basset_hound 0.006122738 469 196 500 278
+cat-Egyptian_Mau 0.005936116 -2 157 29 230

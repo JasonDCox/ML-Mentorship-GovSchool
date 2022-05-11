@@ -1,0 +1,10 @@
+cat-Abyssinian 0.83214796 8 7 428 360
+cat-Persian 0.026462525 111 254 348 353
+cat-Bombay 0.01997143 85 -1 216 31
+dog-leonberger 0.014818907 12 19 40 81
+dog-staffordshire_bull_terrier 0.014796704 295 176 327 196
+dog-leonberger 0.01265192 7 17 32 84
+dog-leonberger 0.010736793 -7 13 33 87
+dog-staffordshire_bull_terrier 0.008959085 299 180 333 200
+cat-Persian 0.0087502 267 209 324 231
+cat-Maine_Coon 0.006684959 322 0 364 21

@@ -1,0 +1,10 @@
+dog-wheaten_terrier 0.77496713 150 78 302 225
+dog-wheaten_terrier 0.012091041 147 60 387 232
+dog-pomeranian 0.010955155 118 -27 444 113
+dog-havanese 0.01057744 159 80 290 154
+dog-yorkshire_terrier 0.007831365 -2 -26 259 89
+cat-Egyptian_Mau 0.0077064335 95 67 538 436
+dog-yorkshire_terrier 0.0073064566 27 -36 337 121
+dog-leonberger 0.006814003 419 148 497 269
+dog-yorkshire_terrier 0.0066766143 328 -25 557 82
+dog-american_pit_bull_terrier 0.006674707 12 -7 156 40

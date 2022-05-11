@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>shiba_inu_135_jpg.rf.ca95dbdfbdf5b087b7d01fa9e1849c18.jpg</filename>
+	<path>shiba_inu_135_jpg.rf.ca95dbdfbdf5b087b7d01fa9e1849c18.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-shiba_inu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>33</ymin>
+			<xmax>347</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>havanese_127_jpg.rf.56d26b66fe1a7e6e1b14d6a29196d561.jpg</filename>
+	<path>havanese_127_jpg.rf.56d26b66fe1a7e6e1b14d6a29196d561.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-havanese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>83</ymin>
+			<xmax>289</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,10 @@
+dog-beagle 0.9732859 144 84 340 232
+dog-yorkshire_terrier 0.01718694 339 0 513 83
+dog-yorkshire_terrier 0.012682408 -2 209 31 289
+dog-leonberger 0.010227948 244 248 274 295
+dog-yorkshire_terrier 0.009833932 327 -26 561 84
+dog-japanese_chin 0.009219676 3 208 42 302
+dog-beagle 0.009188533 -64 62 361 264
+dog-american_bulldog 0.008123696 -70 7 343 222
+dog-american_pit_bull_terrier 0.0077317953 150 72 572 283
+dog-american_pit_bull_terrier 0.00728181 1 183 87 362

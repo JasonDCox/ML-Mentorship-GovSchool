@@ -1,0 +1,10 @@
+dog-great_pyrenees 0.21668014 278 16 388 147
+dog-wheaten_terrier 0.018161654 33 85 89 185
+dog-wheaten_terrier 0.01579851 81 19 379 173
+dog-wheaten_terrier 0.010970831 184 72 262 187
+dog-wheaten_terrier 0.010088116 54 -24 433 163
+dog-wheaten_terrier 0.008686483 -118 -62 353 180
+dog-wheaten_terrier 0.007856458 179 105 254 207
+dog-english_setter 0.00774467 219 23 374 155
+cat-Bombay 0.007560253 36 0 178 29
+bella 0.0071964264 469 57 498 155

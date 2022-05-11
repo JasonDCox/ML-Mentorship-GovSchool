@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>British_Shorthair_187_jpg.rf.24d36402bce6b82092dc93876c65bb71.jpg</filename>
+	<path>British_Shorthair_187_jpg.rf.24d36402bce6b82092dc93876c65bb71.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>332</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat-British_Shorthair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>211</ymin>
+			<xmax>246</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

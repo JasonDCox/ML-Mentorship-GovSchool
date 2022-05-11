@@ -1,0 +1,10 @@
+cat-Sphynx 0.96350634 12 2 221 221
+cat-Egyptian_Mau 0.034181386 -1 221 19 298
+cat-Russian_Blue 0.022483677 -54 -44 216 213
+dog-japanese_chin 0.014100492 21 1 53 16
+dog-yorkshire_terrier 0.012378901 278 41 393 304
+dog-wheaten_terrier 0.011992276 311 232 363 389
+dog-great_pyrenees 0.010405064 61 379 97 411
+dog-american_pit_bull_terrier 0.010230869 317 108 375 245
+dog-boxer 0.010150015 229 109 269 136
+cat-Sphynx 0.0097774565 14 3 325 261

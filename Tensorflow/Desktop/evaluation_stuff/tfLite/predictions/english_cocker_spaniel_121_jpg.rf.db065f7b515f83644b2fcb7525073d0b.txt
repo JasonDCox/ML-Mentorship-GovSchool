@@ -1,0 +1,10 @@
+dog-english_cocker_spaniel 0.8822893 59 67 295 270
+bella 0.013611227 1 91 27 165
+dog-english_cocker_spaniel 0.011251748 67 66 416 289
+bella 0.01103276 467 185 498 276
+dog-basset_hound 0.008871496 14 77 304 418
+cat-Persian 0.007908583 459 0 500 70
+dog-havanese 0.0074329376 379 12 546 189
+dog-english_cocker_spaniel 0.0073711276 -22 27 274 268
+dog-great_pyrenees 0.007327944 202 230 301 279
+dog-american_bulldog 0.007080406 267 91 315 113

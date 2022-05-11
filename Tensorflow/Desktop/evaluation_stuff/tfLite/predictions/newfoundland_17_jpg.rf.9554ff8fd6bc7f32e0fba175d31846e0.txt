@@ -1,0 +1,10 @@
+dog-newfoundland 0.9211006 62 102 194 247
+dog-wheaten_terrier 0.02459988 207 259 258 353
+cat-Egyptian_Mau 0.017343193 0 206 27 333
+dog-wheaten_terrier 0.016055405 262 70 313 93
+cat-Siamese 0.012672007 0 -5 102 55
+dog-wheaten_terrier 0.01243493 220 93 347 204
+dog-english_cocker_spaniel 0.010632008 63 89 250 268
+cat-Egyptian_Mau 0.0093995035 350 142 378 256
+cat-Ragdoll 0.008764297 2 390 51 501
+cat-Siamese 0.007904798 -7 372 147 506

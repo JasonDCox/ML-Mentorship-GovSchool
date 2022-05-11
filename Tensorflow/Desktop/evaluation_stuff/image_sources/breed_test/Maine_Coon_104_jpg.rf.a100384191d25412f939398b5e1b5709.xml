@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>Maine_Coon_104_jpg.rf.a100384191d25412f939398b5e1b5709.jpg</filename>
+	<path>Maine_Coon_104_jpg.rf.a100384191d25412f939398b5e1b5709.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat-Maine_Coon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>55</ymin>
+			<xmax>229</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

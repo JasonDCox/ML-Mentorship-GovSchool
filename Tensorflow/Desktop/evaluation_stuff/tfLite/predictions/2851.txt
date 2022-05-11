@@ -1,0 +1,10 @@
+dog-english_cocker_spaniel 0.6581057 446 240 694 668
+dog-basset_hound 0.026789904 -145 63 699 840
+dog-english_setter 0.025633067 5 356 101 656
+cat-Birman 0.020948917 132 -38 611 193
+dog-shiba_inu 0.018642724 -48 -6 569 283
+cat-Bombay 0.017688096 27 -27 489 200
+dog-american_pit_bull_terrier 0.017386198 4 235 107 568
+dog-basset_hound 0.016151011 65 169 663 735
+dog-english_setter 0.013823032 8 424 98 748
+cat-Bombay 0.013332516 109 -5 529 150

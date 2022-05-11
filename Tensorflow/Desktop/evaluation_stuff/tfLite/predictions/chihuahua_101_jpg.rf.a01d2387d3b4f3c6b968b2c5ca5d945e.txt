@@ -1,0 +1,10 @@
+cat-Sphynx 0.85193944 257 23 359 110
+dog-american_pit_bull_terrier 0.036512434 258 -2 559 249
+dog-chihuahua 0.024118751 260 20 376 167
+dog-american_pit_bull_terrier 0.023543954 250 -53 585 188
+cat-Sphynx 0.023430258 130 17 358 107
+dog-miniature_pinscher 0.018373787 -91 0 372 207
+dog-miniature_pinscher 0.016624302 -134 -49 334 153
+dog-miniature_pinscher 0.014587939 10 2 256 71
+dog-miniature_pinscher 0.013523221 -6 5 341 92
+dog-saint_bernard 0.010189474 146 171 194 190

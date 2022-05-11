@@ -1,0 +1,10 @@
+dog-yorkshire_terrier 0.99259686 142 11 373 175
+cat-Maine_Coon 0.014850348 157 0 554 216
+dog-staffordshire_bull_terrier 0.014111102 262 89 301 109
+bella 0.013975024 472 88 502 141
+dog-american_pit_bull_terrier 0.012333453 0 134 76 272
+dog-yorkshire_terrier 0.0099775195 -133 -58 359 166
+cat-Persian 0.009781867 -7 333 117 376
+dog-yorkshire_terrier 0.009620845 -89 -5 400 218
+dog-shiba_inu 0.008933336 1 2 122 106
+dog-staffordshire_bull_terrier 0.008684397 255 93 296 113

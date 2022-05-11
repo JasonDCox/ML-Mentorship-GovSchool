@@ -1,0 +1,10 @@
+dog-wheaten_terrier 0.9452929 320 18 474 145
+dog-wheaten_terrier 0.030242592 254 19 460 158
+dog-wheaten_terrier 0.018988252 78 11 463 193
+dog-english_setter 0.012943149 -32 7 483 270
+dog-basset_hound 0.012718707 -89 59 455 420
+dog-english_setter 0.012213588 -4 170 86 370
+cat-Egyptian_Mau 0.011091977 469 254 505 337
+cat-Egyptian_Mau 0.010698438 472 234 501 303
+cat-Abyssinian 0.009810418 341 167 520 391
+cat-Birman 0.0090329945 333 333 459 372

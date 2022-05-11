@@ -1,0 +1,10 @@
+dog-english_setter 0.7967384 277 86 376 167
+dog-english_cocker_spaniel 0.0422619 281 87 376 230
+dog-american_pit_bull_terrier 0.025759667 255 -12 573 406
+dog-chihuahua 0.022325099 287 78 537 458
+dog-japanese_chin 0.016434997 1 265 37 357
+cat-Maine_Coon 0.009201914 160 215 205 237
+cat-Bombay 0.008876234 54 -1 166 33
+dog-miniature_pinscher 0.008095086 263 129 594 508
+dog-yorkshire_terrier 0.00742656 -35 86 368 288
+cat-Bombay 0.0061172843 59 -1 145 25

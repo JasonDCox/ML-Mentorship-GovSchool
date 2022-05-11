@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>staffordshire_bull_terrier_108_jpg.rf.747a3375046da8ec3a52b0660873faad.jpg</filename>
+	<path>staffordshire_bull_terrier_108_jpg.rf.747a3375046da8ec3a52b0660873faad.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-staffordshire_bull_terrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>47</ymin>
+			<xmax>361</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

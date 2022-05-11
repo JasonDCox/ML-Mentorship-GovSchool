@@ -1,0 +1,10 @@
+cat-Ragdoll 0.66232896 146 82 311 240
+dog-japanese_chin 0.026992321 194 92 223 104
+dog-american_pit_bull_terrier 0.015430778 0 95 65 179
+cat-Bombay 0.011941493 0 -17 262 70
+bella 0.011249006 0 148 38 201
+dog-miniature_pinscher 0.011007577 -7 -1 217 54
+dog-yorkshire_terrier 0.009144425 194 -19 559 96
+dog-wheaten_terrier 0.0067225993 445 203 515 296
+cat-British_Shorthair 0.00592649 -55 65 329 265
+cat-Abyssinian 0.0057693124 485 243 500 269

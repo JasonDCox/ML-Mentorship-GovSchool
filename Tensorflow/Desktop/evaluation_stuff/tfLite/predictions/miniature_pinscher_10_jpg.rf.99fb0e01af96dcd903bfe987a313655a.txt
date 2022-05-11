@@ -1,0 +1,10 @@
+dog-miniature_pinscher 0.8735888 107 46 464 301
+dog-miniature_pinscher 0.0673807 -49 28 470 329
+dog-pug 0.019529104 271 306 296 344
+dog-miniature_pinscher 0.017837405 202 72 456 283
+dog-miniature_pinscher 0.014615923 99 42 316 304
+dog-miniature_pinscher 0.014054626 80 79 461 390
+cat-Siamese 0.012762368 18 -4 169 41
+cat-Bombay 0.011315197 297 -1 443 28
+cat-Abyssinian 0.00996992 112 50 205 218
+cat-Bombay 0.0072489977 443 1 504 37

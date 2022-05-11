@@ -1,0 +1,10 @@
+dog-american_bulldog 0.73939514 170 9 349 129
+cat-Birman 0.031270325 364 0 505 33
+dog-wheaten_terrier 0.013325959 458 112 499 195
+cat-Siamese 0.009494334 353 0 454 29
+cat-Bombay 0.0090816915 89 0 194 22
+dog-american_bulldog 0.008594185 -122 -42 344 143
+cat-Ragdoll 0.008243024 252 1 291 13
+dog-american_bulldog 0.007855356 -18 76 165 315
+cat-Birman 0.0074738264 323 -1 475 33
+dog-yorkshire_terrier 0.007083267 404 -10 527 33

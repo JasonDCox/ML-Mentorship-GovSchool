@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_bella_testing_formatted</folder>
+	<filename>1821.jpg</filename>
+	<path>C:\Users\brandon\Documents\tenorflow_Object_Detection_tutorial\TFODCourse\Tensorflow\workspace\images\collectedimages\new_bella_testing_formatted\1821.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>693</width>
+		<height>924</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bella</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>211</ymin>
+			<xmax>461</xmax>
+			<ymax>604</ymax>
+		</bndbox>
+	</object>
+</annotation>

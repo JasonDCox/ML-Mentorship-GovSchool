@@ -1,0 +1,10 @@
+dog-saint_bernard 0.051299006 131 161 252 255
+dog-yorkshire_terrier 0.016912192 116 14 369 271
+dog-havanese 0.013384581 98 5 450 368
+dog-yorkshire_terrier 0.013135076 -8 4 250 281
+dog-wheaten_terrier 0.010936618 103 92 152 121
+dog-english_cocker_spaniel 0.009713858 313 246 378 488
+dog-havanese 0.009587884 137 -92 461 314
+cat-Egyptian_Mau 0.007891178 -3 274 23 374
+dog-yorkshire_terrier 0.0072621703 0 0 169 76
+cat-Egyptian_Mau 0.006569624 352 111 379 224

@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>Sphynx_159_jpg.rf.022528b23ac690c34ad5d109c1782079.jpg</filename>
+	<path>Sphynx_159_jpg.rf.022528b23ac690c34ad5d109c1782079.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>364</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat-Sphynx</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>6</ymin>
+			<xmax>221</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

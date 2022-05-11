@@ -1,0 +1,10 @@
+dog-scottish_terrier 0.93182653 90 69 401 409
+dog-wheaten_terrier 0.034512162 -38 26 428 443
+cat-Abyssinian 0.014464945 0 -3 162 61
+cat-Birman 0.012236387 251 1 287 13
+cat-Maine_Coon 0.01057902 -5 -2 237 79
+dog-scottish_terrier 0.009500951 97 23 537 445
+cat-Bengal 0.0088305175 36 0 159 50
+cat-Bengal 0.0081395805 42 0 134 35
+dog-american_pit_bull_terrier 0.007848591 2 90 73 238
+dog-japanese_chin 0.007819474 358 30 438 159

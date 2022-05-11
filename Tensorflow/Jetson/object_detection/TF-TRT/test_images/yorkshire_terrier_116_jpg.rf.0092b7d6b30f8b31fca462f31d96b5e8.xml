@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>yorkshire_terrier_116_jpg.rf.0092b7d6b30f8b31fca462f31d96b5e8.jpg</filename>
+	<path>yorkshire_terrier_116_jpg.rf.0092b7d6b30f8b31fca462f31d96b5e8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>247</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-yorkshire_terrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>1</ymin>
+			<xmax>232</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,10 @@
+cat-Maine_Coon 0.04914123 40 89 205 184
+cat-Abyssinian 0.025345564 183 120 199 163
+dog-wheaten_terrier 0.024047285 50 69 71 78
+dog-wheaten_terrier 0.018945128 43 62 107 171
+dog-wheaten_terrier 0.016096592 49 73 71 83
+cat-Maine_Coon 0.012907445 40 69 154 180
+dog-wheaten_terrier 0.011993438 -23 52 164 193
+dog-yorkshire_terrier 0.011584669 69 0 157 26
+cat-Bombay 0.009428263 82 0 142 13
+cat-Abyssinian 0.00932914 185 119 199 144

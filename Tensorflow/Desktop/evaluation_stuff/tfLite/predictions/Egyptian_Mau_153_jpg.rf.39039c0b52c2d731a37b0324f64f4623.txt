@@ -1,0 +1,10 @@
+cat-Egyptian_Mau 0.9097854 1 1 111 118
+dog-yorkshire_terrier 0.026613235 105 -7 371 96
+dog-great_pyrenees 0.013242751 190 101 249 152
+dog-yorkshire_terrier 0.012387902 207 -3 365 93
+dog-yorkshire_terrier 0.010401726 244 4 364 139
+cat-Egyptian_Mau 0.010238588 -33 -29 95 122
+dog-staffordshire_bull_terrier 0.009095967 279 274 301 287
+dog-great_pyrenees 0.008702964 186 85 250 133
+cat-Persian 0.008590966 5 -10 298 147
+cat-Persian 0.007956862 9 207 326 319

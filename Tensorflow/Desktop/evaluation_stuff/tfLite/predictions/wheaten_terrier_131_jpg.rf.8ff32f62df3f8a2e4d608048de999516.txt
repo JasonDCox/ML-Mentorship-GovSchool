@@ -1,0 +1,10 @@
+dog-wheaten_terrier 0.9759191 76 43 332 310
+dog-wheaten_terrier 0.0278247 82 57 209 282
+bella 0.019453645 352 221 372 338
+dog-wheaten_terrier 0.014963418 -49 -12 340 338
+bella 0.010178775 354 212 375 305
+cat-Egyptian_Mau 0.007635027 -2 148 22 259
+cat-Egyptian_Mau 0.0074971914 50 350 89 385
+dog-yorkshire_terrier 0.0072921515 23 5 177 84
+dog-american_pit_bull_terrier 0.006709218 28 63 341 582
+cat-Bombay 0.006694883 279 1 307 11

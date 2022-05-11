@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>boxer_150_jpg.rf.a88e7e188f890eeb88be49d4f8712cca.jpg</filename>
+	<path>boxer_150_jpg.rf.a88e7e188f890eeb88be49d4f8712cca.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-boxer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>112</ymin>
+			<xmax>300</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

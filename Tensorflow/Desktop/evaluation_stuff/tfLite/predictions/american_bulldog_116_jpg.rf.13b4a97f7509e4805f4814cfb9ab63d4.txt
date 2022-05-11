@@ -1,0 +1,10 @@
+dog-pug 0.03370297 166 23 304 178
+cat-Sphynx 0.019133866 260 2 377 67
+dog-chihuahua 0.015717447 150 38 265 199
+dog-yorkshire_terrier 0.011775911 149 -19 270 167
+dog-scottish_terrier 0.01048997 -46 12 229 266
+dog-miniature_pinscher 0.008708656 255 0 418 299
+dog-leonberger 0.008420795 265 60 289 113
+dog-american_bulldog 0.0072944164 -4 310 23 415
+dog-leonberger 0.00717932 156 39 196 76
+dog-miniature_pinscher 0.007046938 -66 10 300 331

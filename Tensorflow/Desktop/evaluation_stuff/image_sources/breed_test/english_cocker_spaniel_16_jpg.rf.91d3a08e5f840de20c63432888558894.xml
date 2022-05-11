@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>english_cocker_spaniel_16_jpg.rf.91d3a08e5f840de20c63432888558894.jpg</filename>
+	<path>english_cocker_spaniel_16_jpg.rf.91d3a08e5f840de20c63432888558894.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-english_cocker_spaniel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>105</ymin>
+			<xmax>154</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

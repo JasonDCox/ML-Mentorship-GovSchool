@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>japanese_chin_103_jpg.rf.17bf9403278f76748ecb22aff5dbfedf.jpg</filename>
+	<path>japanese_chin_103_jpg.rf.17bf9403278f76748ecb22aff5dbfedf.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-japanese_chin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>73</ymin>
+			<xmax>427</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

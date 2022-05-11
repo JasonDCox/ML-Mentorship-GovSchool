@@ -1,0 +1,10 @@
+dog-miniature_pinscher 0.9719009 153 0 303 153
+dog-miniature_pinscher 0.035316885 150 -32 339 135
+dog-shiba_inu 0.033486396 4 -1 117 33
+cat-Abyssinian 0.023259819 253 3 297 74
+dog-miniature_pinscher 0.0149177015 167 22 346 213
+cat-Persian 0.013974488 41 0 78 9
+dog-american_bulldog 0.011633664 167 160 306 227
+dog-miniature_pinscher 0.01100865 150 4 211 125
+dog-miniature_pinscher 0.009904206 196 19 312 151
+cat-Persian 0.009518355 259 0 284 8

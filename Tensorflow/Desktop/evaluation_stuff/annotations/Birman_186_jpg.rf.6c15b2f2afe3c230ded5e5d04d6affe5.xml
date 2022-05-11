@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>Birman_186_jpg.rf.6c15b2f2afe3c230ded5e5d04d6affe5.jpg</filename>
+	<path>Birman_186_jpg.rf.6c15b2f2afe3c230ded5e5d04d6affe5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat-Birman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>51</ymin>
+			<xmax>364</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>Bombay_146_jpg.rf.288e58c8b226aa5b7c6ad4442f7fda5c.jpg</filename>
+	<path>Bombay_146_jpg.rf.288e58c8b226aa5b7c6ad4442f7fda5c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>165</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat-Bombay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>55</ymin>
+			<xmax>68</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

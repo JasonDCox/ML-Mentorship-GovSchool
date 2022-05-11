@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>wheaten_terrier_131_jpg.rf.8ff32f62df3f8a2e4d608048de999516.jpg</filename>
+	<path>wheaten_terrier_131_jpg.rf.8ff32f62df3f8a2e4d608048de999516.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-wheaten_terrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>44</ymin>
+			<xmax>335</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

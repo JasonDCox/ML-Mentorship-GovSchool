@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>miniature_pinscher_10_jpg.rf.99fb0e01af96dcd903bfe987a313655a.jpg</filename>
+	<path>miniature_pinscher_10_jpg.rf.99fb0e01af96dcd903bfe987a313655a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-miniature_pinscher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>56</ymin>
+			<xmax>455</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

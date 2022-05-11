@@ -1,0 +1,10 @@
+dog-great_pyrenees 0.7919992 179 94 453 285
+dog-american_pit_bull_terrier 0.024415404 1 103 79 302
+dog-yorkshire_terrier 0.018915623 0 -23 280 94
+dog-staffordshire_bull_terrier 0.018191785 164 101 490 556
+cat-Maine_Coon 0.017013729 -19 -1 183 72
+dog-havanese 0.015374213 212 87 291 116
+cat-Bengal 0.015056372 65 2 168 40
+dog-american_pit_bull_terrier 0.012661368 3 169 72 320
+dog-havanese 0.010012388 207 79 288 104
+cat-Abyssinian 0.008929789 469 50 505 141

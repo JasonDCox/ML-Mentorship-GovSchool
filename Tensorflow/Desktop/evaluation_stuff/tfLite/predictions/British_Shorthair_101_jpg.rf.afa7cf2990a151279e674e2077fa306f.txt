@@ -1,0 +1,10 @@
+cat-British_Shorthair 0.9900193 261 87 371 198
+cat-Bombay 0.01640597 266 133 374 198
+cat-Birman 0.01630947 329 0 501 42
+cat-British_Shorthair 0.012449652 172 95 378 210
+cat-Abyssinian 0.009940654 486 35 500 61
+cat-Birman 0.009155571 39 -20 333 76
+dog-saint_bernard 0.00903675 175 112 220 134
+dog-saint_bernard 0.008815765 161 112 208 134
+cat-Abyssinian 0.008685619 473 234 506 294
+dog-american_pit_bull_terrier 0.008200616 246 114 577 405

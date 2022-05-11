@@ -1,0 +1,10 @@
+cat-Russian_Blue 0.9659641 156 12 327 206
+cat-British_Shorthair 0.0321936 -59 -7 348 207
+dog-yorkshire_terrier 0.014541 330 3 518 83
+cat-British_Shorthair 0.012121499 -117 -50 325 166
+cat-Sphynx 0.009487361 166 16 312 97
+dog-english_cocker_spaniel 0.009110719 464 166 499 254
+dog-yorkshire_terrier 0.007732123 5 5 217 81
+dog-basset_hound 0.007499844 415 176 504 345
+dog-leonberger 0.006930411 422 20 514 101
+dog-leonberger 0.0066159368 431 38 514 118

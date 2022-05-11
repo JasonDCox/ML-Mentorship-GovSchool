@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>Persian_140_jpg.rf.9f99f82bb76fc5e58b71707b6301f10d.jpg</filename>
+	<path>Persian_140_jpg.rf.9f99f82bb76fc5e58b71707b6301f10d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>358</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat-Persian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>99</ymin>
+			<xmax>295</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

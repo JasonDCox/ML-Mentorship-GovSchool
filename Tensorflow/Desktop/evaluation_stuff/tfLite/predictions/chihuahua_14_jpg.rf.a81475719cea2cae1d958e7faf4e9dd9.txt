@@ -1,0 +1,10 @@
+dog-chihuahua 0.7401627 107 13 429 348
+dog-miniature_pinscher 0.024822623 -68 17 449 423
+dog-staffordshire_bull_terrier 0.008467346 206 155 244 182
+bella 0.00837636 469 291 492 338
+dog-great_pyrenees 0.007566005 408 371 459 399
+dog-staffordshire_bull_terrier 0.0070980787 200 150 237 177
+cat-Russian_Blue 0.006238669 98 -1 224 35
+dog-english_cocker_spaniel 0.0058242083 -2 258 31 378
+dog-miniature_pinscher 0.0052585006 143 -107 578 338
+dog-american_pit_bull_terrier 0.005174905 0 0 217 80

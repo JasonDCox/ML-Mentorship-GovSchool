@@ -1,0 +1,10 @@
+dog-miniature_pinscher 0.8026079 93 32 192 120
+cat-Bengal 0.03378114 158 43 191 74
+dog-miniature_pinscher 0.018610328 92 35 164 109
+dog-american_pit_bull_terrier 0.009803861 94 11 353 132
+dog-german_shorthaired 0.0077450275 141 33 192 83
+dog-miniature_pinscher 0.0071646273 95 36 187 90
+cat-Abyssinian 0.006378144 155 46 192 92
+dog-miniature_pinscher 0.0063130558 33 31 186 122
+cat-Abyssinian 0.0061383545 94 34 129 85
+bella 0.0061165094 3 121 56 198

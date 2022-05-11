@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>american_pit_bull_terrier_134_jpg.rf.fae91eb602b864f71fe5e53b170f8132.jpg</filename>
+	<path>american_pit_bull_terrier_134_jpg.rf.fae91eb602b864f71fe5e53b170f8132.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>252</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-american_pit_bull_terrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>22</ymin>
+			<xmax>133</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>

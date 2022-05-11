@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>newfoundland_17_jpg.rf.9554ff8fd6bc7f32e0fba175d31846e0.jpg</filename>
+	<path>newfoundland_17_jpg.rf.9554ff8fd6bc7f32e0fba175d31846e0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-newfoundland</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>106</ymin>
+			<xmax>192</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

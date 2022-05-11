@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>pug_176_jpg.rf.852688a2fbfaa3e4de245376e93211d7.jpg</filename>
+	<path>pug_176_jpg.rf.852688a2fbfaa3e4de245376e93211d7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>227</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-pug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>20</ymin>
+			<xmax>205</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,10 @@
+dog-pug 0.9975952 77 39 242 179
+dog-pug 0.023146987 -40 20 253 204
+dog-wheaten_terrier 0.010253042 120 36 169 48
+cat-Egyptian_Mau 0.009277582 281 52 303 102
+cat-Bombay 0.00897789 155 0 256 17
+dog-newfoundland 0.00805369 174 42 238 113
+dog-wheaten_terrier 0.007970542 180 31 222 45
+dog-wheaten_terrier 0.007693857 181 36 222 50
+dog-staffordshire_bull_terrier 0.006933093 45 34 255 250
+cat-Persian 0.006508678 276 0 299 40

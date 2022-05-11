@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>Russian_Blue_158_jpg.rf.8bb44431bc9dea9b2093995bd7ccda47.jpg</filename>
+	<path>Russian_Blue_158_jpg.rf.8bb44431bc9dea9b2093995bd7ccda47.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat-Russian_Blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>68</ymin>
+			<xmax>440</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

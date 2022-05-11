@@ -1,0 +1,10 @@
+dog-wheaten_terrier 0.8432544 49 19 324 243
+dog-english_cocker_spaniel 0.041882753 47 25 253 201
+dog-wheaten_terrier 0.017992973 330 183 424 325
+dog-havanese 0.011307538 20 19 345 352
+cat-Birman 0.010942996 125 -5 239 33
+cat-Egyptian_Mau 0.010883808 -1 200 25 268
+dog-english_cocker_spaniel 0.009908915 81 41 453 258
+dog-shiba_inu 0.009148866 263 -1 433 45
+bella 0.0062339306 55 32 188 178
+cat-Bengal 0.0062075555 -3 221 25 291

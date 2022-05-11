@@ -1,0 +1,10 @@
+dog-chihuahua 0.67623377 221 33 366 245
+dog-american_pit_bull_terrier 0.09148133 197 17 422 263
+dog-american_pit_bull_terrier 0.07509318 223 -3 535 269
+dog-english_cocker_spaniel 0.008910507 389 263 463 291
+dog-english_cocker_spaniel 0.008759856 390 272 458 299
+cat-Bombay 0.008476615 103 -1 262 31
+dog-american_pit_bull_terrier 0.008135229 193 -87 610 261
+dog-american_pit_bull_terrier 0.008076996 210 61 620 477
+dog-pomeranian 0.0073671937 -8 0 169 58
+dog-chihuahua 0.0071706176 249 51 548 362

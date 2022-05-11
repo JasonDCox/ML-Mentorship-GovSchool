@@ -1,0 +1,10 @@
+dog-american_pit_bull_terrier 0.6724454 111 32 340 293
+dog-yorkshire_terrier 0.030002356 53 0 195 59
+bella 0.017532706 295 188 329 237
+dog-american_pit_bull_terrier 0.016483247 95 38 365 420
+bella 0.014165431 327 176 349 256
+dog-yorkshire_terrier 0.012234747 63 -2 172 44
+dog-english_cocker_spaniel 0.011275381 322 275 349 360
+dog-american_pit_bull_terrier 0.01110819 174 38 340 240
+cat-Bombay 0.010944843 62 0 141 31
+cat-Persian 0.009567589 191 29 237 44

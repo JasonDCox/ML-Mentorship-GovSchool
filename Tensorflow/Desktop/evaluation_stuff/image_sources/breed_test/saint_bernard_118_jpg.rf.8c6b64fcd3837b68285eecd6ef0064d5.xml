@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>saint_bernard_118_jpg.rf.8c6b64fcd3837b68285eecd6ef0064d5.jpg</filename>
+	<path>saint_bernard_118_jpg.rf.8c6b64fcd3837b68285eecd6ef0064d5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>451</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-saint_bernard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>78</ymin>
+			<xmax>263</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

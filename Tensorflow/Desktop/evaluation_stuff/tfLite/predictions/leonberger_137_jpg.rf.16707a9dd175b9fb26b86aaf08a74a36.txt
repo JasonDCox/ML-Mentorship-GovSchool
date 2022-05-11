@@ -1,0 +1,10 @@
+dog-leonberger 0.35634953 94 38 392 312
+dog-miniature_pinscher 0.034331888 89 38 269 289
+dog-havanese 0.027412593 57 -28 438 294
+dog-yorkshire_terrier 0.026665866 6 0 206 49
+dog-miniature_pinscher 0.016067386 10 41 227 294
+dog-english_setter 0.015834779 -51 14 375 329
+dog-miniature_pinscher 0.012497604 40 7 234 231
+dog-yorkshire_terrier 0.010699093 0 -11 239 70
+dog-great_pyrenees 0.009997845 334 58 388 71
+bella 0.009718657 473 181 501 245

@@ -1,0 +1,10 @@
+dog-saint_bernard 0.5979728 -3 42 314 383
+dog-saint_bernard 0.024600655 -2 39 192 351
+cat-Persian 0.012525588 118 1 159 19
+dog-staffordshire_bull_terrier 0.01033783 233 95 258 115
+cat-Bombay 0.00901261 294 1 334 49
+dog-great_pyrenees 0.008067906 90 2 169 47
+cat-Persian 0.007819831 107 0 148 18
+dog-wheaten_terrier 0.007639587 80 0 103 12
+dog-staffordshire_bull_terrier 0.00721246 233 101 257 122
+cat-Siamese 0.006785512 125 153 148 172

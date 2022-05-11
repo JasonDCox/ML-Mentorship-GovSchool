@@ -1,0 +1,10 @@
+dog-american_pit_bull_terrier 0.47101247 196 56 354 225
+dog-staffordshire_bull_terrier 0.02035433 253 108 288 125
+dog-japanese_chin 0.0140013695 295 238 340 267
+bella 0.012781352 0 250 48 341
+dog-staffordshire_bull_terrier 0.0106553435 247 104 281 121
+dog-japanese_chin 0.009061724 285 238 328 270
+cat-British_Shorthair 0.00894171 -84 9 356 232
+dog-japanese_chin 0.008700132 294 228 343 258
+dog-samoyed 0.0078088343 211 59 343 143
+cat-Bombay 0.007521361 62 0 200 28

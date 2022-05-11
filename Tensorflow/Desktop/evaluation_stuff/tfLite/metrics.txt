@@ -1,0 +1,56 @@
+COCO METRICS:
+AP: 0.5113346791748401
+AP50: 0.6167564424981776
+AP75: 0.5904962629083648
+APsmall: nan
+APmedium: 0.4591861066448525
+APlarge: 0.5385400024422213
+AR1: 0.5612442783824363
+AR10: 0.5635992041584147
+AR100: 0.5635992041584147
+ARsmall: nan
+ARmedium: 0.4903703703703703
+ARlarge: 0.5939615527231626
+
+PASCAL METRIC (AP per class)
+bella: 0.41956521739130437
+cat-Abyssinian: 0.673469387755102
+cat-Bengal: 0.22727272727272724
+cat-Birman: 0.7333333333333333
+cat-Bombay: 0.7777777777777778
+cat-British_Shorthair: 0.8575757575757574
+cat-Egyptian_Mau: 0.7047619047619047
+cat-Maine_Coon: 0.8181818181818182
+cat-Persian: 0.9621212121212122
+cat-Ragdoll: 0.7
+cat-Russian_Blue: 0.7777777777777779
+cat-Siamese: 0.6557142857142856
+cat-Sphynx: 0.5863636363636364
+dog-american_bulldog: 0.3611111111111111
+dog-american_pit_bull_terrier: 0.6069444444444444
+dog-basset_hound: 0.49500091726288753
+dog-beagle: 0.788888888888889
+dog-boxer: 0.6666666666666666
+dog-chihuahua: 0.5632440476190476
+dog-english_cocker_spaniel: 0.3333333333333333
+dog-english_setter: 0.1697076508397263
+dog-german_shorthaired: 0.25
+dog-great_pyrenees: 0.7444444444444445
+dog-havanese: 0.5913989028213166
+dog-japanese_chin: 0.5
+dog-keeshond: 0.46759259259259256
+dog-leonberger: 0.621978021978022
+dog-miniature_pinscher: 0.5106666666666667
+dog-newfoundland: 0.8
+dog-pomeranian: 0.875
+dog-pug: 1.0
+dog-saint_bernard: 0.38680555555555557
+dog-samoyed: 0.9
+dog-scottish_terrier: 0.6124338624338624
+dog-shiba_inu: 0.8
+dog-staffordshire_bull_terrier: 0.2
+dog-wheaten_terrier: 0.633739837398374
+dog-yorkshire_terrier: 0.7777777777777778
+
+PASCAL METRIC (mAP)
+mAP: 0.6197539357331936

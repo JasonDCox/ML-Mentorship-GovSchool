@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>great_pyrenees_153_jpg.rf.8bf2248d590ea8d786c88f371fd565d0.jpg</filename>
+	<path>great_pyrenees_153_jpg.rf.8bf2248d590ea8d786c88f371fd565d0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>413</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-great_pyrenees</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>60</ymin>
+			<xmax>443</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,10 @@
+dog-leonberger 0.35060042 67 118 216 241
+dog-havanese 0.042891026 47 23 487 313
+cat-Egyptian_Mau 0.014740497 52 1 125 37
+dog-havanese 0.014240265 102 -77 579 249
+cat-Bombay 0.012792289 132 0 209 27
+dog-yorkshire_terrier 0.011038929 140 0 503 204
+dog-yorkshire_terrier 0.010234594 27 -47 219 246
+dog-yorkshire_terrier 0.009872317 49 8 143 212
+cat-Maine_Coon 0.008572102 122 0 173 18
+cat-Egyptian_Mau 0.008087844 0 382 55 505

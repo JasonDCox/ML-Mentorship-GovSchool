@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>basset_hound_183_jpg.rf.6b32a66310006c189629501949bfe731.jpg</filename>
+	<path>basset_hound_183_jpg.rf.6b32a66310006c189629501949bfe731.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog-basset_hound</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>9</ymin>
+			<xmax>403</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,10 @@
+dog-boxer 0.85762686 178 112 316 256
+dog-basset_hound 0.02001977 -3 267 32 353
+dog-staffordshire_bull_terrier 0.013792932 285 332 317 344
+dog-staffordshire_bull_terrier 0.012858838 285 335 317 349
+dog-basset_hound 0.011673719 0 257 48 359
+dog-havanese 0.009672761 84 -60 378 282
+dog-japanese_chin 0.009541273 -6 -71 323 289
+cat-Persian 0.008392662 377 334 433 348
+dog-newfoundland 0.008162051 241 -5 387 37
+dog-japanese_chin 0.00807929 128 22 333 263
