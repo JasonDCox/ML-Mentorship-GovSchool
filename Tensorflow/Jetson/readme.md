@@ -12,6 +12,7 @@ It is important to note that **the TensorRT script uses TF-TRT,** which is a met
 3. To install tensorflow, follow the instructions from NVIDIA, which are linked below.
 4. If you keep having issues with TensorRT wanting to use a "libnvinfer" that does not exist, try reinstalling TensorRT using NVIDIA's instructions that are linked below.
 ## Layout
+1. The final resulting layout for the folders used in this section of the tutorial should be the same as in the object_detection folder from the github
 ## Steps
 ### Exporting from Desktop
 1. After running the graph freezing and tfLite export section of the desktop code, do the following steps to transfer the model
