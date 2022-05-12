@@ -81,7 +81,8 @@ It is important to note that **the TensorRT script uses TF-TRT,** which is a met
     2. It will then open a window with a feed of each frame with predictions at the speed of the model
     3. press q to close the feed window
 ### Exporting back to Desktop
-9. 
+1. Now that all your tests are completed, copy the object detection folder back to the Desktop pc
+2. Follow the instructions in the desktop readme on how to evaluate and export the results from the models
 ## References
  - Nicholas Renotte's in-depth [tutorial](https://www.youtube.com/watch?v=yqkISICHH-U)
     - [RasberryPi code github](https://github.com/nicknochnack/TFODRPi)
