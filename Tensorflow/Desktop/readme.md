@@ -17,6 +17,10 @@ Once you have created the models, you will export them to be run on the Jetson. 
     - This should be installed in a completely different folder since the image and detection folders can easily be selected in the software.
 3. Copy the provided evaluation_stuff folder into the TFODCourse folder created by following Nicholas Renotte's video.
 ## Layout
+1. Because the Desktop folder in the github does not fully represent the final folder, I have provided screenshots of the edited folders for the tutorial. **If a folder does not have a screenshot, assume it should be the same as shown in Nicholas Renotte's tutorial**
+2. folder: TFODCourse
+![TFODCourse folder](TFODCourse_folder.jpg)
+3. folde: 
 ## Steps
 ### Creating, training, and exporting a model
 1. Create/import image dataset with PASCAL VOC annotations.
