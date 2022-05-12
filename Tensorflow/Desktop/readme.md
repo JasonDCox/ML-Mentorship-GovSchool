@@ -24,7 +24,8 @@ Once you have created the models, you will export them to be run on the Jetson. 
 ![TFODCourse folder](https://github.com/JasonDCox/ML-Mentorship-GovSchool/blob/main/Tensorflow/tutorial_images/TFODCourse_folder.jpg)
 
 
-3. folde: 
+3. folder: TFODCourse > evaluation_stuff
+    1. Same as in the github
 ## Steps
 ### Creating, training, and exporting a model
 1. Create/import image dataset with PASCAL VOC annotations.
