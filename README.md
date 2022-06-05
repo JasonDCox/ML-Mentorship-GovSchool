@@ -14,5 +14,10 @@ Process of experimental testing in which we are able to read in and train an alg
 
 
 ## Navigation 
-- Code:
-- System Documentation: Contains all directories regarding documentation 
+- Media: Contains video used for testing.
+- Tensorflow: Contains tutorials and code for the Tensorlow implementation.
+- YOLO: Contains tutorials and code for the YOLO implementation.
+- dataset: Contains all additional custom images used for testing. Does not include entire pet dataset.
+- Learning_modules: Contains mentorship materials created before work on final project.
+- Metrics_results: Contains final metrics on effectiveness of different implmentations.
+- System Documentation: Contains all directories regarding documentation.
